@@ -220,7 +220,7 @@ class WildfireModel(nn.Module):
                 'p_veg': torch.rand(SIZE, SIZE),
                 'p_den': torch.rand(SIZE, SIZE),
                 'wind_velocity': torch.rand(SIZE, SIZE) * 10,
-                'wind_towards_direction': torch.rand(SIZE, SIZE) * 365,
+                'wind_towards_direction': torch.rand(SIZE, SIZE) * 360,
                 'slope': torch.rand(SIZE, SIZE, 3, 3) * 90,
                 'initial_ignition': torch.rand(SIZE, SIZE) > .9,
             }
