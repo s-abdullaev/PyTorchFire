@@ -12,6 +12,7 @@ license = { file = "LICENSE" }
 keywords = []
 authors = [
     { name = "Zeyu Xia", email = "zeyu.xia@virginia.edu" },
+    { name = "Sibo Cheng", email = "sibo.cheng@enpc.fr" },
 ]
 classifiers = [
     "Environment :: GPU",
