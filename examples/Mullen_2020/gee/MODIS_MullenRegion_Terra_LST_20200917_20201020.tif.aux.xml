@@ -1,0 +1,684 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>2020_09_17_20200917_Terra_LST_Day_1km</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>14548.79166666667</HistMin>
+        <HistMax>15459.20833333333</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|2|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|1|0|0|3|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|3|0|0|2|0|1|0|0|0|0|1|0|1|0|0|2|0|1|0|0|0|0|4|0|5|0|0|4|0|2|0|4|0|0|3|0|1|0|0|1|0|0|0|1|0|0|2|0|1|0|0|0|0|1|0|0|0|0|0|0|3|0|0|3|0|2|0|3|0|0|3|0|3|0|0|1|0|1|0|0|0|0|0|0|2|0|0|0|0|3|0|2|0|0|3|0|1|0|0|2|0|5|0|1|0|0|2|0|0|0|0|2|0|2|0|1|0|0|1|0|1|0|0|3|0|2|0|0|0|0|3|0|0|0|0|2|0|7|0|1|0|0|3|0|2|0|0|0|0|2|0|1|0|0|3|0|5|0|0|3|0|0|0|0|0|0|1|0|5|0|0|3|0|0|0|3|0|0|4|0|1|0|0|0|0|1|0|2|0|0|6|0|2|0|0|2|0|0|0|0|0|0|3|0|4|0|0|4|0|3|0|2|0|0|4|0|3|0|0|2|0|1|0|6|0|0|2|0|2|0|0|1|0|3|0|3|0|0|2|0|4|0|0|3|0|3|0|4|0|0|4|0|2|0|0|4|0|4|0|1|0|0|7|0|2|0|0|4|0|3|0|5|0|0|4|0|5|0|0|3|0|3|0|2|0|0|1|0|4|0|0|4|0|9|0|1|0|0|3|0|3|0|0|8|0|3|0|5|0|0|5|0|4|0|0|4|0|6|0|4|0|0|2|0|3|0|0|2|0|4|0|4|0|0|4|0|3|0|0|3|0|3|0|6|0|0|2|0|3|0|0|4|0|3|0|0|0|0|2|0|7|0|0|7|0|3|0|2|0|0|1|0|7|0|0|0|0|4|0|8|0|0|1|0|7|0|0|8|0|4|0|1|0|0|4|0|3|0|0|4|0|6|0|2|0|0|5|0|7|0|0|3|0|6|0|6|0|0|5|0|4|0|0|7|0|3|0|3|0|0|1|0|4|0|0|7|0|0|0|4|0|0|5|0|10|0|0|4|0|5|0|5|0|0|1|0|2|0|0|4|0|7|0|2|0|0|10|0|5|0|8|0|0|5|0|4|0|0|5|0|3|0|5|0|0|8|0|7|0|0|5|0|12|0|2|0|0|5|0|5|0|0|6|0|4|0|3|0|0|4|0|8|0|0|7|0|5|0|6|0|0|3|0|4|0|0|4|0|4|0|5|0|0|2|0|4|0|0|3|0|6|0|7|0|0|2|0|5|0|0|1|0|4|0|5|0|0|2|0|9|0|0|9|0|4|0|3|0|0|8|0|1|0|0|4|0|7|0|1|0|0|4|0|7|0|0|7|0|3|0|6|0|0|2|0|4|0|0|5|0|7|0|5|0|0|6|0|4|0|0|5|0|2|0|1|0|0|5|0|5|0|0|9|0|0|0|4|0|0|3|0|4|0|0|4|0|6|0|7|0|0|2|0|9|0|0|12|0|3|0|7|0|0|6|0|4|0|0|4|0|12|0|3|0|0|3|0|4|0|0|2|0|4|0|4|0|0|5|0|2|0|0|6|0|5|0|5|0|0|7|0|4|0|0|10|0|9|0|7|0|0|5|0|4|0|0|3|0|5|0|0|0|0|1|0|10|0|0|4|0|3|0|3|0|0|5|0|7|0|0|7|0|5|0|3|0|0|4|0|1|0|0|3|0|6|0|1|0|0|3|0|7|0|0|5|0|6|0|12|0|0|8|0|4|0|0|3|0|8|0|3|0|0|3|0|5|0|0|4|0|3|0|1|0|0|5|0|5|0|0|3|0|5|0|4|0|0|6|0|5|0|0|5|0|7|0|2|0|0|6|0|2|0|0|4|0|2|0|2|0|0|5|0|6|0|0|4|0|2|0|2|0|0|2|0|4|0|0|3|0|5|0|1|0|0|1|0|3|0|0|4|0|3|0|2|0|0|6|0|1|0|0|7|0|1|0|1|0|0|5|0|6|0|0|3|0|2|0|3|0|0|6|0|7|0|0|5|0|3|0|7|0|0|0|0|4|0|0|2|0|4|0|4|0|0|4|0|3|0|5|0|0|8|0|4|0|0|10|0|1|0|5|0|0|1|0|4|0|0|5|0|3|0|0|0|0|5|0|5|0|0|2|0|2|0|1|0|0|5|0|1|0|0|3|0|2|0|1|0|0|0|0|5|0|0|2|0|4|0|1|0|0|1|0|4|0|0|1|0|1|0|2|0|0|3|0|3|0|0|3|0|3|0|0|0|0|3|0|3|0|0|2|0|1|0|0|0|0|2|0|2|0|0|2|0|0|0|1|0|0|3|0|4|0|0|1|0|2|0|0|0|0|4|0|4|0|0|5|0|2|0|6|0|0|3|0|3|0|0|0|0|3|0|0|0|0|1|0|2|0|0|2|0|3|0|5|0|0|3|0|2|0|0|2|0|1|0|1|0|0|0|0|0|0|0|6|0|2|0|4|0|0|3|0|6|0|0|4|0|4|0|2|0|0|2|0|7|0|0|4|0|3|0|2|0|0|6|0|0|0|0|2|0|1|0|1|0|0|4|0|1|0|0|4|0|1|0|1|0|0|6|0|5|0|0|0|0|0|0|1|0|0|2|0|2|0|0|0|0|1|0|3|0|0|3|0|1|0|0|7|0|8|0|1|0|0|1|0|2|0|0|5|0|5|0|3|0|0|2|0|3|0|0|2|0|2|0|5|0|0|2|0|2|0|0|6|0|4|0|6|0|0|0|0|1|0|0|1|0|1|0|1|0|0|7|0|2|0|0|4|0|4|0|2|0|0|6|0|1|0|0|2|0|3|0|3|0|0|2|0|3|0|0|2|0|0|0|6|0|0|4|0|4|0|0|2|0|7|0|1|0|0|3|0|2|0|0|1|0|4|0|5|0|0|2|0|2|0|0|4|0|3|0|2|0|0|4|0|3|0|0|5|0|4|0|1|0|0|0|0|3|0|0|2|0|5|0|1|0|0|8|0|0|0|0|1|0|2|0|4|0|0|7|0|0|0|0|0|0|0|0|1|0|0|3|0|0|0|3|0|0|1|0|4|0|0|0|0|1|0|3|0|0|1|0|3|0|0|3|0|3|0|1|0|0|5|0|3|0|0|2|0|1|0|0|0|0|4|0|3|0|0|7|0|4|0|3|0|0|0|0|4|0|0|2|0|2|0|0|0|0|3|0|5|0|0|5|0|1|0|3|0|0|2|0|0|0|0|3|0|2|0|2|0|0|3|0|2|0|0|1|0|0|0|1|0|0|2|0|1|0|0|6|0|4|0|2|0|0|3|0|5|0|0|1|0|1|0|3|0|0|1|0|0|0|0|3|0|2|0|1|0|0|1|0|4|0|0|2|0|2|0|2|0|0|3|0|1|0|0|1|0|1|0|0|0|0|0|0|1|0|0|1|0|1|0|0|0|0|1|0|2|0|0|0|0|2|0|1|0|0|3|0|1|0|0|0|0|1|0|2|0|0|3|0|0|0|0|1|0|1|0|0|0|0|2|0|2|0|0|3|0|0|0|0|0|0|2|0|0|0|0|1|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4|0|2|0|0|0|0|0|0|0|0|0|1|0|1|0|1|0|0|0|0|0|0|0|1|0|2|0|0|0|0|1|0|3|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|1|0|0|1|0|1|0|0|2|0|0|0|1|0|0|0|0|2|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|3|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|0|2|0|0|0|0|0|0|2|0|0|0|0|0|0|2|0|0|1|0|2|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14549</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15459</MDI>
+      <MDI key="STATISTICS_MEAN">14947.299450549</MDI>
+      <MDI key="STATISTICS_STDDEV">180.43227266211</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>2020_09_17_20200917_Terra_LST_Night_1km</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>13575.87614468865</HistMin>
+        <HistMax>14117.12385531135</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|2|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|4|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|3|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|3|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|3|0|0|0|2|0|0|0|1|0|0|0|2|0|0|0|1|0|0|0|4|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|1|0|0|0|1|0|0|0|1|0|0|0|3|0|0|0|3|0|0|0|2|0|0|0|3|0|0|0|4|0|0|0|3|0|0|0|1|0|0|0|3|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|3|0|0|0|4|0|0|0|3|0|0|0|4|0|0|0|4|0|0|0|4|0|0|0|5|0|0|0|6|0|0|0|5|0|0|0|1|0|0|0|3|0|0|0|10|0|0|0|1|0|0|0|6|0|0|0|5|0|0|0|3|0|0|0|4|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|1|0|0|0|2|0|0|0|6|0|0|0|7|0|0|0|5|0|0|0|1|0|0|0|11|0|0|0|4|0|0|0|4|0|0|0|0|4|0|0|0|6|0|0|0|2|0|0|0|8|0|0|0|7|0|0|0|3|0|0|0|4|0|0|0|2|0|0|0|11|0|0|0|4|0|0|0|7|0|0|0|6|0|0|0|2|0|0|0|6|0|0|0|6|0|0|0|5|0|0|0|9|0|0|0|13|0|0|0|5|0|0|0|10|0|0|0|3|0|0|0|5|0|0|0|4|0|0|0|10|0|0|0|9|0|0|0|4|0|0|0|7|0|0|0|8|0|0|0|0|7|0|0|0|2|0|0|0|6|0|0|0|8|0|0|0|3|0|0|0|7|0|0|0|7|0|0|0|6|0|0|0|9|0|0|0|9|0|0|0|9|0|0|0|9|0|0|0|9|0|0|0|5|0|0|0|15|0|0|0|8|0|0|0|4|0|0|0|1|0|0|0|2|0|0|0|7|0|0|0|9|0|0|0|13|0|0|0|14|0|0|0|10|0|0|0|16|0|0|0|2|0|0|0|6|0|0|0|6|0|0|0|0|8|0|0|0|3|0|0|0|5|0|0|0|7|0|0|0|8|0|0|0|10|0|0|0|9|0|0|0|6|0|0|0|10|0|0|0|9|0|0|0|16|0|0|0|5|0|0|0|8|0|0|0|9|0|0|0|10|0|0|0|10|0|0|0|10|0|0|0|8|0|0|0|5|0|0|0|14|0|0|0|11|0|0|0|11|0|0|0|11|0|0|0|10|0|0|0|10|0|0|0|12|0|0|0|2|0|0|0|2|0|0|0|11|0|0|0|0|12|0|0|0|2|0|0|0|8|0|0|0|5|0|0|0|4|0|0|0|5|0|0|0|6|0|0|0|8|0|0|0|12|0|0|0|11|0|0|0|3|0|0|0|15|0|0|0|12|0|0|0|11|0|0|0|5|0|0|0|9|0|0|0|9|0|0|0|9|0|0|0|7|0|0|0|11|0|0|0|16|0|0|0|13|0|0|0|9|0|0|0|14|0|0|0|12|0|0|0|7|0|0|0|13|0|0|0|10|0|0|0|0|19|0|0|0|13|0|0|0|9|0|0|0|6|0|0|0|17|0|0|0|11|0|0|0|13|0|0|0|6|0|0|0|4|0|0|0|6|0|0|0|9|0|0|0|6|0|0|0|12|0|0|0|9|0|0|0|12|0|0|0|6|0|0|0|5|0|0|0|11|0|0|0|14|0|0|0|9|0|0|0|15|0|0|0|4|0|0|0|14|0|0|0|5|0|0|0|8|0|0|0|8|0|0|0|8|0|0|0|14|0|0|0|18|0|0|0|0|15|0|0|0|5|0|0|0|3|0|0|0|9|0|0|0|13|0|0|0|12|0|0|0|13|0|0|0|4|0|0|0|8|0|0|0|17|0|0|0|9|0|0|0|7|0|0|0|9|0|0|0|4|0|0|0|13|0|0|0|9|0|0|0|6|0|0|0|16|0|0|0|14|0|0|0|12|0|0|0|10|0|0|0|7|0|0|0|10|0|0|0|12|0|0|0|3|0|0|0|10|0|0|0|6|0|0|0|9|0|0|0|0|6|0|0|0|3|0|0|0|17|0|0|0|2|0|0|0|4|0|0|0|10|0|0|0|6|0|0|0|6|0|0|0|9|0|0|0|11|0|0|0|5|0|0|0|6|0|0|0|8|0|0|0|5|0|0|0|3|0|0|0|4|0|0|0|2|0|0|0|7|0|0|0|6|0|0|0|4|0|0|0|8|0|0|0|3|0|0|0|9|0|0|0|8|0|0|0|7|0|0|0|9|0|0|0|5|0|0|0|14|0|0|0|7|0|0|0|0|8|0|0|0|7|0|0|0|6|0|0|0|6|0|0|0|15|0|0|0|9|0|0|0|8|0|0|0|10|0|0|0|12|0|0|0|4|0|0|0|5|0|0|0|8|0|0|0|10|0|0|0|5|0|0|0|10|0|0|0|6|0|0|0|5|0|0|0|6|0|0|0|1|0|0|0|10|0|0|0|10|0|0|0|7|0|0|0|11|0|0|0|2|0|0|0|4|0|0|0|2|0|0|0|5|0|0|0|6|0|0|0|0|6|0|0|0|3|0|0|0|8|0|0|0|8|0|0|0|5|0|0|0|2|0|0|0|0|0|0|0|2|0|0|0|4|0|0|0|4|0|0|0|1|0|0|0|4|0|0|0|0|0|0|0|3|0|0|0|5|0|0|0|8|0|0|0|2|0|0|0|7|0|0|0|0|0|0|0|3|0|0|0|3|0|0|0|3|0|0|0|3|0|0|0|1|0|0|0|3|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|3|0|0|0|8|0|0|0|3|0|0|0|4|0|0|0|0|0|0|0|3|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13576</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14117</MDI>
+      <MDI key="STATISTICS_MEAN">13926.423076923</MDI>
+      <MDI key="STATISTICS_STDDEV">81.331437285339</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>2020_09_18_20200918_Terra_LST_Day_1km</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>14561.84752747253</HistMin>
+        <HistMax>15228.15247252747</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|3|0|0|0|0|0|1|0|0|0|0|0|0|3|0|0|4|0|0|0|0|0|0|3|0|0|1|0|0|2|0|0|0|4|0|0|3|0|0|5|0|0|2|0|0|0|3|0|0|3|0|0|10|0|0|0|1|0|0|3|0|0|2|0|0|1|0|0|0|1|0|0|0|0|0|4|0|0|0|5|0|0|4|0|0|2|0|0|3|0|0|0|7|0|0|2|0|0|4|0|0|2|0|0|0|4|0|0|4|0|0|7|0|0|0|0|0|0|1|0|0|1|0|0|2|0|0|0|2|0|0|3|0|0|6|0|0|0|5|0|0|7|0|0|4|0|0|0|0|0|0|2|0|0|1|0|0|5|0|0|4|0|0|0|2|0|0|2|0|0|2|0|0|0|2|0|0|0|0|0|2|0|0|2|0|0|0|3|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|2|0|0|0|4|0|0|0|0|0|2|0|0|3|0|0|0|4|0|0|4|0|0|3|0|0|0|2|0|0|1|0|0|5|0|0|3|0|0|0|5|0|0|3|0|0|3|0|0|0|3|0|0|4|0|0|5|0|0|4|0|0|0|0|0|0|6|0|0|1|0|0|3|0|0|0|5|0|0|2|0|0|2|0|0|0|6|0|0|7|0|0|4|0|0|2|0|0|0|4|0|0|3|0|0|5|0|0|0|1|0|0|2|0|0|0|0|0|11|0|0|0|1|0|0|5|0|0|7|0|0|5|0|0|0|9|0|0|2|0|0|1|0|0|0|8|0|0|13|0|0|4|0|0|2|0|0|0|1|0|0|2|0|0|4|0|0|0|4|0|0|4|0|0|8|0|0|2|0|0|0|2|0|0|4|0|0|4|0|0|0|0|0|0|9|0|0|7|0|0|6|0|0|0|3|0|0|6|0|0|0|0|0|2|0|0|0|10|0|0|4|0|0|5|0|0|0|3|0|0|4|0|0|1|0|0|0|0|0|0|2|0|0|4|0|0|5|0|0|7|0|0|0|1|0|0|10|0|0|1|0|0|0|3|0|0|7|0|0|3|0|0|6|0|0|0|2|0|0|1|0|0|5|0|0|0|9|0|0|11|0|0|6|0|0|0|0|0|0|6|0|0|3|0|0|4|0|0|3|0|0|0|2|0|0|8|0|0|7|0|0|0|8|0|0|5|0|0|10|0|0|3|0|0|0|12|0|0|9|0|0|3|0|0|0|4|0|0|0|0|0|6|0|0|6|0|0|0|5|0|0|1|0|0|4|0|0|6|0|0|0|3|0|0|4|0|0|7|0|0|0|7|0|0|6|0|0|6|0|0|7|0|0|0|2|0|0|5|0|0|3|0|0|0|5|0|0|4|0|0|6|0|0|9|0|0|0|9|0|0|8|0|0|2|0|0|6|0|0|0|1|0|0|5|0|0|9|0|0|0|0|0|0|1|0|0|12|0|0|3|0|0|0|12|0|0|2|0|0|8|0|0|0|12|0|0|4|0|0|6|0|0|2|0|0|0|5|0|0|7|0|0|9|0|0|9|0|0|0|8|0|0|4|0|0|4|0|0|0|3|0|0|4|0|0|3|0|0|5|0|0|0|1|0|0|5|0|0|9|0|0|0|6|0|0|10|0|0|1|0|0|4|0|0|0|0|0|0|4|0|0|2|0|0|6|0|0|0|4|0|0|1|0|0|0|0|0|0|3|0|0|2|0|0|1|0|0|2|0|0|0|4|0|0|5|0|0|3|0|0|0|7|0|0|3|0|0|7|0|0|3|0|0|0|2|0|0|5|0|0|6|0|0|3|0|0|0|3|0|0|4|0|0|3|0|0|0|1|0|0|5|0|0|6|0|0|5|0|0|0|1|0|0|6|0|0|7|0|0|0|2|0|0|4|0|0|3|0|0|3|0|0|0|6|0|0|3|0|0|5|0|0|2|0|0|0|4|0|0|4|0|0|0|0|0|0|2|0|0|1|0|0|8|0|0|1|0|0|0|4|0|0|5|0|0|2|0|0|0|3|0|0|1|0|0|2|0|0|7|0|0|0|3|0|0|0|0|0|0|0|0|3|0|0|0|6|0|0|2|0|0|5|0|0|0|4|0|0|1|0|0|1|0|0|6|0|0|0|3|0|0|2|0|0|4|0|0|0|6|0|0|1|0|0|3|0|0|0|0|0|0|3|0|0|3|0|0|2|0|0|0|0|0|0|4|0|0|2|0|0|4|0|0|0|1|0|0|3|0|0|3|0|0|1|0|0|0|1|0|0|5|0|0|3|0|0|0|3|0|0|2|0|0|5|0|0|1|0|0|0|6|0|0|3|0|0|1|0|0|0|2|0|0|2|0|0|1|0|0|2|0|0|0|5|0|0|4|0|0|2|0|0|2|0|0|0|3|0|0|2|0|0|5|0|0|0|3|0|0|5|0|0|2|0|0|2|0|0|0|7|0|0|4|0|0|2|0|0|0|3|0|0|5|0|0|4|0|0|2|0|0|0|2|0|0|4|0|0|3|0|0|2|0|0|0|7|0|0|1|0|0|4|0|0|0|6|0|0|2|0|0|4|0|0|2|0|0|0|3|0|0|3|0|0|2|0|0|0|7|0|0|6|0|0|2|0|0|4|0|0|0|4|0|0|2|0|0|6|0|0|3|0|0|0|2|0|0|5|0|0|7|0|0|0|7|0|0|4|0|0|5|0|0|1|0|0|0|7|0|0|3|0|0|7|0|0|0|0|0|0|6|0|0|6|0|0|1|0|0|0|5|0|0|7|0|0|7|0|0|5|0|0|0|5|0|0|12|0|0|5|0|0|0|2|0|0|1|0|0|1|0|0|10|0|0|0|6|0|0|10|0|0|0|0|0|0|6|0|0|7|0|0|6|0|0|5|0|0|0|7|0|0|8|0|0|7|0|0|5|0|0|0|4|0|0|5|0|0|4|0|0|0|11|0|0|7|0|0|3|0|0|8|0|0|0|6|0|0|4|0|0|4|0|0|0|3|0|0|7|0|0|4|0|0|4|0|0|0|7|0|0|6|0|0|0|0|0|4|0|0|0|3|0|0|1|0|0|1|0|0|0|7|0|0|7|0|0|2|0|0|3|0|0|0|10|0|0|3|0|0|4|0|0|0|7|0|0|1|0|0|4|0|0|6|0|0|0|3|0|0|4|0|0|4|0|0|10|0|0|0|8|0|0|3|0|0|5|0|0|0|4|0|0|0|0|0|5|0|0|8|0|0|0|3|0|0|0|0|0|2|0|0|0|5|0|0|4|0|0|2|0|0|4|0|0|0|4|0|0|7|0|0|6|0|0|4|0|0|0|6|0|0|2|0|0|5|0|0|0|3|0|0|1|0|0|2|0|0|2|0|0|0|1|0|0|3|0|0|2|0|0|0|3|0|0|2|0|0|3|0|0|9|0|0|0|3|0|0|6|0|0|2|0|0|13|0|0|0|5|0|0|6|0|0|3|0|0|0|6|0|0|7|0|0|4|0|0|6|0|0|0|4|0|0|1|0|0|1|0|0|0|1|0|0|1|0|0|3|0|0|3|0|0|0|2|0|0|6|0|0|2|0|0|5|0|0|0|3|0|0|2|0|0|4|0|0|0|1|0|0|0|0|0|1|0|0|5|0|0|0|2|0|0|6|0|0|3|0|0|0|1|0|0|0|0|0|5|0|0|3|0|0|0|0|0|0|7|0|0|4|0|0|3|0|0|0|4|0|0|2|0|0|3|0|0|0|1|0|0|3|0|0|4|0|0|5|0|0|0|0|0|0|0|0|0|6|0|0|0|3|0|0|3|0|0|5|0|0|2|0|0|0|2|0|0|1|0|0|4|0|0|4|0|0|0|8|0|0|1|0|0|5|0|0|0|1|0|0|0|0|0|4|0|0|2|0|0|0|5|0|0|1|0|0|0|0|0|0|0|0|0|2|0|0|3|0|0|4|0|0|0|1|0|0|5|0|0|4|0|0|5|0|0|0|5|0|0|6|0|0|5|0|0|0|3|0|0|1|0|0|0|0|0|2|0|0|0|4|0|0|3|0|0|0|0|0|0|3|0|0|3|0|0|3|0|0|2|0|0|0|3|0|0|0|0|0|0|0|0|6|0|0|0|0|0|0|1|0|0|1|0|0|0|2|0|0|2|0|0|0|0|0|6|0|0|0|4|0|0|0|0|0|0|0|0|0|2|0|0|3|0|0|2|0|0|2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|3|0|0|2|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|2|0|0|0|1|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|6|0|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14562</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15228</MDI>
+      <MDI key="STATISTICS_MEAN">14879.876378676</MDI>
+      <MDI key="STATISTICS_STDDEV">157.74635807571</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.63</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>2020_09_18_20200918_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13591</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14911</MDI>
+      <MDI key="STATISTICS_MEAN">13967.217690192</MDI>
+      <MDI key="STATISTICS_STDDEV">104.69613750562</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.91</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>2020_09_19_20200919_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14156</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16416</MDI>
+      <MDI key="STATISTICS_MEAN">14817.834754797</MDI>
+      <MDI key="STATISTICS_STDDEV">303.49973459414</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">42.95</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>2020_09_19_20200919_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>2020_09_20_20200920_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14247</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15028</MDI>
+      <MDI key="STATISTICS_MEAN">14633.080256031</MDI>
+      <MDI key="STATISTICS_STDDEV">176.26375641587</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">92.99</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>2020_09_20_20200920_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13097</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15306</MDI>
+      <MDI key="STATISTICS_MEAN">13866.722797927</MDI>
+      <MDI key="STATISTICS_STDDEV">231.47306124318</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">35.35</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>2020_09_21_20200921_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14524</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15525</MDI>
+      <MDI key="STATISTICS_MEAN">15029.647247706</MDI>
+      <MDI key="STATISTICS_STDDEV">223.38778737315</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.82</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>2020_09_21_20200921_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13718</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14066</MDI>
+      <MDI key="STATISTICS_MEAN">13883.783310281</MDI>
+      <MDI key="STATISTICS_STDDEV">61.89951611198</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.31</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>2020_09_22_20200922_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14231</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15394</MDI>
+      <MDI key="STATISTICS_MEAN">14931.14553473</MDI>
+      <MDI key="STATISTICS_STDDEV">246.88212505323</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">41.53</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>2020_09_22_20200922_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13608</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15282</MDI>
+      <MDI key="STATISTICS_MEAN">13930.112033195</MDI>
+      <MDI key="STATISTICS_STDDEV">108.20248034306</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.31</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>2020_09_23_20200923_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14176</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15498</MDI>
+      <MDI key="STATISTICS_MEAN">14760.375893769</MDI>
+      <MDI key="STATISTICS_STDDEV">249.42965517678</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">89.65</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>2020_09_23_20200923_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13487</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14026</MDI>
+      <MDI key="STATISTICS_MEAN">13892.686971235</MDI>
+      <MDI key="STATISTICS_STDDEV">88.195896878431</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">27.06</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>2020_09_24_20200924_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14478</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15586</MDI>
+      <MDI key="STATISTICS_MEAN">14941.823772373</MDI>
+      <MDI key="STATISTICS_STDDEV">239.41420816144</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.77</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>2020_09_24_20200924_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13589</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14903</MDI>
+      <MDI key="STATISTICS_MEAN">13927.402693915</MDI>
+      <MDI key="STATISTICS_STDDEV">114.45572623178</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.58</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>2020_09_25_20200925_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14022</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15205</MDI>
+      <MDI key="STATISTICS_MEAN">14716.041911765</MDI>
+      <MDI key="STATISTICS_STDDEV">255.39502075364</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">62.27</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>2020_09_25_20200925_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13753</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16068</MDI>
+      <MDI key="STATISTICS_MEAN">14131.763746505</MDI>
+      <MDI key="STATISTICS_STDDEV">136.09105419672</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.26</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>2020_09_26_20200926_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14024</MDI>
+      <MDI key="STATISTICS_MAXIMUM">17502</MDI>
+      <MDI key="STATISTICS_MEAN">14837.5824</MDI>
+      <MDI key="STATISTICS_STDDEV">546.42023389534</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">28.62</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>2020_09_26_20200926_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13719</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15159</MDI>
+      <MDI key="STATISTICS_MEAN">14053.484589041</MDI>
+      <MDI key="STATISTICS_STDDEV">241.9108500079</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">26.74</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>2020_09_27_20200927_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14074</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14162</MDI>
+      <MDI key="STATISTICS_MEAN">14143.75</MDI>
+      <MDI key="STATISTICS_STDDEV">21.040140208658</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">1.099</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>2020_09_27_20200927_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13944</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13944</MDI>
+      <MDI key="STATISTICS_MEAN">13944</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">0.04579</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>2020_09_28_20200928_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13914</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15095</MDI>
+      <MDI key="STATISTICS_MEAN">14582.174986286</MDI>
+      <MDI key="STATISTICS_STDDEV">256.99576546408</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">83.47</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>2020_09_28_20200928_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13209</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13538</MDI>
+      <MDI key="STATISTICS_MEAN">13415.028653295</MDI>
+      <MDI key="STATISTICS_STDDEV">50.465617489695</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">15.98</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>2020_09_29_20200929_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14360</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15343</MDI>
+      <MDI key="STATISTICS_MEAN">14797.571768061</MDI>
+      <MDI key="STATISTICS_STDDEV">200.86256386936</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">96.34</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>2020_09_29_20200929_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13322</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14404</MDI>
+      <MDI key="STATISTICS_MEAN">13595.174780527</MDI>
+      <MDI key="STATISTICS_STDDEV">107.46288627163</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">57.37</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>2020_09_30_20200930_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14343</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16825</MDI>
+      <MDI key="STATISTICS_MEAN">14877.145437262</MDI>
+      <MDI key="STATISTICS_STDDEV">271.6576959207</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">96.34</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>2020_09_30_20200930_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13478</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16018</MDI>
+      <MDI key="STATISTICS_MEAN">13899.199608611</MDI>
+      <MDI key="STATISTICS_STDDEV">262.08826488579</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">93.59</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>2020_10_01_20201001_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14193</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15739</MDI>
+      <MDI key="STATISTICS_MEAN">14688.987840467</MDI>
+      <MDI key="STATISTICS_STDDEV">273.48917908727</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">94.14</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>2020_10_01_20201001_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13290</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15164</MDI>
+      <MDI key="STATISTICS_MEAN">13706.846112886</MDI>
+      <MDI key="STATISTICS_STDDEV">186.19712910635</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">85.99</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>2020_10_02_20201002_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14076</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15236</MDI>
+      <MDI key="STATISTICS_MEAN">14618.315363881</MDI>
+      <MDI key="STATISTICS_STDDEV">271.71933604487</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">84.94</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>2020_10_02_20201002_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>2020_10_03_20201003_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14023</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15493</MDI>
+      <MDI key="STATISTICS_MEAN">14728.024053224</MDI>
+      <MDI key="STATISTICS_STDDEV">267.51297031804</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">89.47</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>2020_10_03_20201003_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13439</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14248</MDI>
+      <MDI key="STATISTICS_MEAN">13756.333333333</MDI>
+      <MDI key="STATISTICS_STDDEV">244.97966185425</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">4.396</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>2020_10_04_20201004_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14278</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15317</MDI>
+      <MDI key="STATISTICS_MEAN">14802.512229539</MDI>
+      <MDI key="STATISTICS_STDDEV">225.42741590372</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">97.34</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>2020_10_04_20201004_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13324</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14579</MDI>
+      <MDI key="STATISTICS_MEAN">13640.142776204</MDI>
+      <MDI key="STATISTICS_STDDEV">101.82433359667</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">80.82</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>2020_10_05_20201005_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14308</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16939</MDI>
+      <MDI key="STATISTICS_MEAN">14892.132119514</MDI>
+      <MDI key="STATISTICS_STDDEV">260.36883055117</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.08</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>2020_10_05_20201005_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13583</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14983</MDI>
+      <MDI key="STATISTICS_MEAN">13960.31259333</MDI>
+      <MDI key="STATISTICS_STDDEV">155.25662003407</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">91.99</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>2020_10_06_20201006_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14475</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15425</MDI>
+      <MDI key="STATISTICS_MEAN">14916.277518657</MDI>
+      <MDI key="STATISTICS_STDDEV">228.1762275097</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.17</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>2020_10_06_20201006_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13340</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14775</MDI>
+      <MDI key="STATISTICS_MEAN">13761.309241094</MDI>
+      <MDI key="STATISTICS_STDDEV">130.54861753702</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">88.69</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>2020_10_07_20201007_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14370</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16271</MDI>
+      <MDI key="STATISTICS_MEAN">15054.665890028</MDI>
+      <MDI key="STATISTICS_STDDEV">239.83736863513</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.26</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>2020_10_07_20201007_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13410</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14138</MDI>
+      <MDI key="STATISTICS_MEAN">13828.708535403</MDI>
+      <MDI key="STATISTICS_STDDEV">128.4105885739</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">94.41</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>2020_10_08_20201008_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14457</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15618</MDI>
+      <MDI key="STATISTICS_MEAN">14949.33551708</MDI>
+      <MDI key="STATISTICS_STDDEV">209.89891101933</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">97.85</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>2020_10_08_20201008_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13355</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15093</MDI>
+      <MDI key="STATISTICS_MEAN">13767.716574862</MDI>
+      <MDI key="STATISTICS_STDDEV">126.78428203821</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">91.44</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>2020_10_09_20201009_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14232</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15567</MDI>
+      <MDI key="STATISTICS_MEAN">15032.866387337</MDI>
+      <MDI key="STATISTICS_STDDEV">229.00770751055</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">98.35</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>2020_10_09_20201009_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13558</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14111</MDI>
+      <MDI key="STATISTICS_MEAN">13850.073414113</MDI>
+      <MDI key="STATISTICS_STDDEV">114.28623030119</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">64.24</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>2020_10_10_20201010_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14161</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15347</MDI>
+      <MDI key="STATISTICS_MEAN">14786.656534954</MDI>
+      <MDI key="STATISTICS_STDDEV">234.94345299393</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">60.26</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>2020_10_10_20201010_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13525</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14054</MDI>
+      <MDI key="STATISTICS_MEAN">13824.177873152</MDI>
+      <MDI key="STATISTICS_STDDEV">83.649257099581</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">96.02</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>2020_10_11_20201011_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>2020_10_11_20201011_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13560</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14160</MDI>
+      <MDI key="STATISTICS_MEAN">13963.007208073</MDI>
+      <MDI key="STATISTICS_STDDEV">81.171998056981</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">95.28</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>2020_10_12_20201012_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13996</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14877</MDI>
+      <MDI key="STATISTICS_MEAN">14515.477099237</MDI>
+      <MDI key="STATISTICS_STDDEV">149.22076685842</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">12</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>2020_10_12_20201012_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13283</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13619</MDI>
+      <MDI key="STATISTICS_MEAN">13458.538299368</MDI>
+      <MDI key="STATISTICS_STDDEV">66.860264088949</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">65.16</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>2020_10_13_20201013_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14077</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14942</MDI>
+      <MDI key="STATISTICS_MEAN">14560.722431078</MDI>
+      <MDI key="STATISTICS_STDDEV">209.79206502983</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">73.08</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>2020_10_13_20201013_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13536</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13979</MDI>
+      <MDI key="STATISTICS_MEAN">13737.815513627</MDI>
+      <MDI key="STATISTICS_STDDEV">90.911331678352</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">65.52</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Description>2020_10_14_20201014_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">14189</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14427</MDI>
+      <MDI key="STATISTICS_MEAN">14331.304347826</MDI>
+      <MDI key="STATISTICS_STDDEV">76.361517045199</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">1.053</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Description>2020_10_14_20201014_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13605</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14113</MDI>
+      <MDI key="STATISTICS_MEAN">13919.329075426</MDI>
+      <MDI key="STATISTICS_STDDEV">90.921201178382</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">75.27</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Description>2020_10_15_20201015_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Description>2020_10_15_20201015_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13166</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13497</MDI>
+      <MDI key="STATISTICS_MEAN">13357.435779817</MDI>
+      <MDI key="STATISTICS_STDDEV">68.987753231655</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">29.95</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Description>2020_10_16_20201016_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13752</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15092</MDI>
+      <MDI key="STATISTICS_MEAN">14472.625954198</MDI>
+      <MDI key="STATISTICS_STDDEV">253.65205885221</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">89.97</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Description>2020_10_16_20201016_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13084</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13324</MDI>
+      <MDI key="STATISTICS_MEAN">13221.807692308</MDI>
+      <MDI key="STATISTICS_STDDEV">69.248726303626</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">3.571</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Description>2020_10_17_20201017_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13841</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14391</MDI>
+      <MDI key="STATISTICS_MEAN">14150.173913043</MDI>
+      <MDI key="STATISTICS_STDDEV">99.700181925574</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">10.53</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Description>2020_10_17_20201017_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13573</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13949</MDI>
+      <MDI key="STATISTICS_MEAN">13789.237406484</MDI>
+      <MDI key="STATISTICS_STDDEV">75.645857506296</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">91.8</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Description>2020_10_18_20201018_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Description>2020_10_18_20201018_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Description>2020_10_19_20201019_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13758</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14699</MDI>
+      <MDI key="STATISTICS_MEAN">14324.150857143</MDI>
+      <MDI key="STATISTICS_STDDEV">201.17584088654</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">40.06</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Description>2020_10_19_20201019_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_VALID_PERCENT">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Description>2020_10_20_20201020_Terra_LST_Day_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13789</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14776</MDI>
+      <MDI key="STATISTICS_MEAN">14403.202182654</MDI>
+      <MDI key="STATISTICS_STDDEV">223.07467761504</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">79.72</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Description>2020_10_20_20201020_Terra_LST_Night_1km</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">13567</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13924</MDI>
+      <MDI key="STATISTICS_MEAN">13731.066451315</MDI>
+      <MDI key="STATISTICS_STDDEV">66.885980546274</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.22</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,1228 @@
+<VRTDataset rasterXSize="52" rasterYSize="42">
+    <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+    <GeoTransform>-106.48629377952808, 0.008983152841195215, 0.0, 41.28657045813321, 0.0, -0.008983152841195215</GeoTransform>
+    <VRTRasterBand dataType="Float32" band="1">
+        <Description>20200917_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-17T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-17T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200917.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="2">
+        <Description>20200917_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-17T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-17T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200917.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="3">
+        <Description>20200918_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-18T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-18T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200918.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="4">
+        <Description>20200918_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-18T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-18T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200918.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="5">
+        <Description>20200919_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-19T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-19T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200919.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="6">
+        <Description>20200919_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-19T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-19T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200919.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="7">
+        <Description>20200920_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-20T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-20T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200920.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="8">
+        <Description>20200920_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-20T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-20T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200920.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="9">
+        <Description>20200921_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-21T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-21T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200921.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="10">
+        <Description>20200921_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-21T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-21T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200921.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="11">
+        <Description>20200922_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-22T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-22T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200922.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="12">
+        <Description>20200922_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-22T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-22T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200922.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="13">
+        <Description>20200923_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-23T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-23T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200923.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="14">
+        <Description>20200923_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-23T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-23T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200923.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="15">
+        <Description>20200924_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-24T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-24T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200924.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="16">
+        <Description>20200924_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-24T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-24T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200924.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="17">
+        <Description>20200925_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-25T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-25T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200925.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="18">
+        <Description>20200925_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-25T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-25T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200925.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="19">
+        <Description>20200926_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-26T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-26T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200926.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="20">
+        <Description>20200926_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-26T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-26T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200926.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="21">
+        <Description>20200927_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-27T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-27T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200927.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="22">
+        <Description>20200927_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-27T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-27T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200927.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="23">
+        <Description>20200928_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-28T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-28T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200928.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="24">
+        <Description>20200928_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-28T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-28T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200928.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="25">
+        <Description>20200929_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-29T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-29T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200929.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="26">
+        <Description>20200929_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-29T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-29T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200929.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="27">
+        <Description>20200930_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-09-30T01:30:00</MDI>
+            <MDI key="END_TIME">2020-09-30T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200930.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="28">
+        <Description>20200930_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-09-30T22:30:00</MDI>
+            <MDI key="END_TIME">2020-09-30T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200930.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="29">
+        <Description>20201001_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-01T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-01T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201001.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="30">
+        <Description>20201001_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-01T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-01T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201001.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="31">
+        <Description>20201002_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-02T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-02T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201002.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="32">
+        <Description>20201002_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-02T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-02T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201002.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="33">
+        <Description>20201003_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-03T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-03T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201003.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="34">
+        <Description>20201003_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-03T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-03T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201003.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="35">
+        <Description>20201004_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-04T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-04T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201004.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="36">
+        <Description>20201004_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-04T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-04T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201004.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="37">
+        <Description>20201005_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-05T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-05T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201005.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="38">
+        <Description>20201005_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-05T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-05T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201005.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="39">
+        <Description>20201006_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-06T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-06T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201006.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="40">
+        <Description>20201006_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-06T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-06T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201006.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="41">
+        <Description>20201007_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-07T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-07T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201007.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="42">
+        <Description>20201007_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-07T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-07T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201007.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="43">
+        <Description>20201008_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-08T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-08T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201008.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="44">
+        <Description>20201008_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-08T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-08T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201008.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="45">
+        <Description>20201009_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-09T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-09T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201009.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="46">
+        <Description>20201009_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-09T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-09T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201009.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="47">
+        <Description>20201010_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-10T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-10T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201010.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="48">
+        <Description>20201010_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-10T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-10T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201010.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="49">
+        <Description>20201011_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-11T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-11T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201011.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="50">
+        <Description>20201011_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-11T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-11T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201011.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="51">
+        <Description>20201012_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-12T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-12T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201012.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="52">
+        <Description>20201012_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-12T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-12T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201012.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="53">
+        <Description>20201013_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-13T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-13T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201013.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="54">
+        <Description>20201013_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-13T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-13T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201013.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="55">
+        <Description>20201014_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-14T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-14T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201014.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="56">
+        <Description>20201014_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-14T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-14T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201014.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="57">
+        <Description>20201015_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-15T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-15T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201015.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="58">
+        <Description>20201015_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-15T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-15T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201015.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="59">
+        <Description>20201016_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-16T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-16T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201016.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="60">
+        <Description>20201016_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-16T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-16T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201016.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="61">
+        <Description>20201017_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-17T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-17T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201017.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="62">
+        <Description>20201017_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-17T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-17T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201017.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="63">
+        <Description>20201018_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-18T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-18T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201018.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="64">
+        <Description>20201018_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-18T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-18T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201018.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="65">
+        <Description>20201019_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-19T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-19T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201019.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="66">
+        <Description>20201019_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-19T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-19T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201019.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="67">
+        <Description>20201020_Aqua_Night_0130</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+            <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+            <MDI key="START_TIME">2020-10-20T01:30:00</MDI>
+            <MDI key="END_TIME">2020-10-20T01:30:00</MDI>
+            <MDI key="PLATFORM">Aqua</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201020.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+    <VRTRasterBand dataType="Float32" band="68">
+        <Description>20201020_Terra_Night_2230</Description>
+        <Metadata>
+            <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+            <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+            <MDI key="START_TIME">2020-10-20T22:30:00</MDI>
+            <MDI key="END_TIME">2020-10-20T22:30:00</MDI>
+            <MDI key="PLATFORM">Terra</MDI>
+            <MDI key="BAND_NAME">LST_Night_1km</MDI>
+        </Metadata>
+        <SimpleSource>
+            <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201020.tif</SourceFilename>
+            <SourceBand>2</SourceBand>
+            <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32"/>
+            <SrcRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+            <DstRect xOff="0" yOff="0" xSize="52" ySize="42"/>
+        </SimpleSource>
+    </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,3162 @@
+<VRTDataset rasterXSize="52" rasterYSize="42">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -1.0648629377952808e+02,  8.9831528411952154e-03,  0.0000000000000000e+00,  4.1286570458133212e+01,  0.0000000000000000e+00, -8.9831528411952154e-03</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-17T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-17T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14105</MDI>
+      <MDI key="STATISTICS_MEAN">13808.813186813</MDI>
+      <MDI key="STATISTICS_MINIMUM">13449</MDI>
+      <MDI key="STATISTICS_STDDEV">102.5455759039</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200917_Aqua_Night_0130</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>13448.84981684982</HistMin>
+        <HistMax>14105.15018315018</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|0|0|0|0|0|3|0|0|2|0|0|0|0|0|0|3|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4|0|0|0|2|0|0|0|0|0|0|0|0|0|2|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|0|3|0|0|3|0|0|0|3|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|3|0|0|0|0|0|0|0|0|0|3|0|0|2|0|0|0|1|0|0|2|0|0|0|0|0|4|0|0|0|3|0|0|1|0|0|2|0|0|0|0|0|0|4|0|0|4|0|0|0|3|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|2|0|0|0|1|0|0|0|0|0|0|0|0|0|2|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|6|0|0|3|0|0|0|5|0|0|3|0|0|0|0|0|0|1|0|0|1|0|0|1|0|0|0|1|0|0|4|0|0|4|0|0|0|1|0|0|0|0|0|3|0|0|0|4|0|0|4|0|0|1|0|0|0|3|0|0|3|0|0|2|0|0|0|2|0|0|2|0|0|6|0|0|0|3|0|0|0|0|0|1|0|0|0|2|0|0|3|0|0|6|0|0|0|2|0|0|2|0|0|2|0|0|0|2|0|0|3|0|0|2|0|0|6|0|0|0|1|0|0|7|0|0|0|0|0|0|5|0|0|3|0|0|2|0|0|0|1|0|0|1|0|0|4|0|0|0|1|0|0|1|0|0|2|0|0|0|3|0|0|1|0|0|6|0|0|0|6|0|0|2|0|0|2|0|0|0|4|0|0|4|0|0|6|0|0|0|2|0|0|3|0|0|4|0|0|0|3|0|0|5|0|0|8|0|0|0|2|0|0|4|0|0|4|0|0|0|8|0|0|3|0|0|5|0|0|0|6|0|0|3|0|0|5|0|0|0|4|0|0|3|0|0|1|0|0|0|4|0|0|6|0|0|1|0|0|0|2|0|0|8|0|0|4|0|0|0|7|0|0|3|0|0|1|0|0|0|3|0|0|6|0|0|2|0|0|0|1|0|0|3|0|0|9|0|0|0|4|0|0|1|0|0|5|0|0|0|8|0|0|4|0|0|4|0|0|10|0|0|0|5|0|0|5|0|0|9|0|0|0|3|0|0|5|0|0|5|0|0|0|8|0|0|11|0|0|4|0|0|0|5|0|0|5|0|0|4|0|0|0|9|0|0|7|0|0|2|0|0|0|7|0|0|6|0|0|5|0|0|0|5|0|0|10|0|0|4|0|0|0|1|0|0|3|0|0|2|0|0|0|4|0|0|6|0|0|7|0|0|0|4|0|0|6|0|0|7|0|0|0|4|0|0|10|0|0|9|0|0|0|8|0|0|7|0|0|7|0|0|0|5|0|0|6|0|0|9|0|0|0|13|0|0|9|0|0|5|0|0|0|7|0|0|7|0|0|6|0|0|0|11|0|0|5|0|0|7|0|0|0|8|0|0|5|0|0|6|0|0|0|4|0|0|8|0|0|5|0|0|0|7|0|0|4|0|0|10|0|0|0|9|0|0|5|0|0|10|0|0|3|0|0|0|17|0|0|8|0|0|9|0|0|0|7|0|0|9|0|0|12|0|0|0|3|0|0|5|0|0|9|0|0|0|13|0|0|10|0|0|7|0|0|0|16|0|0|9|0|0|10|0|0|0|1|0|0|12|0|0|9|0|0|0|5|0|0|8|0|0|4|0|0|0|9|0|0|6|0|0|3|0|0|0|7|0|0|8|0|0|10|0|0|0|7|0|0|5|0|0|5|0|0|0|5|0|0|13|0|0|5|0|0|0|8|0|0|2|0|0|6|0|0|0|10|0|0|3|0|0|11|0|0|0|4|0|0|8|0|0|5|0|0|0|10|0|0|9|0|0|7|0|0|0|5|0|0|10|0|0|3|0|0|0|7|0|0|8|0|0|7|0|0|0|11|0|0|6|0|0|13|0|0|0|7|0|0|9|0|0|6|0|0|12|0|0|0|5|0|0|3|0|0|6|0|0|0|15|0|0|8|0|0|12|0|0|0|10|0|0|6|0|0|10|0|0|0|4|0|0|9|0|0|10|0|0|0|14|0|0|12|0|0|8|0|0|0|10|0|0|13|0|0|6|0|0|0|8|0|0|9|0|0|7|0|0|0|7|0|0|7|0|0|10|0|0|0|9|0|0|6|0|0|4|0|0|0|5|0|0|5|0|0|13|0|0|0|6|0|0|13|0|0|7|0|0|0|7|0|0|7|0|0|15|0|0|0|8|0|0|6|0|0|13|0|0|0|7|0|0|10|0|0|5|0|0|0|3|0|0|15|0|0|9|0|0|0|8|0|0|6|0|0|6|0|0|0|9|0|0|3|0|0|21|0|0|0|11|0|0|8|0|0|5|0|0|0|5|0|0|12|0|0|11|0|0|0|2|0|0|1|0|0|7|0|0|4|0|0|0|3|0|0|8|0|0|6|0|0|0|3|0|0|6|0|0|8|0|0|0|4|0|0|4|0|0|11|0|0|0|6|0|0|5|0|0|8|0|0|0|5|0|0|7|0|0|12|0|0|0|1|0|0|6|0|0|7|0|0|0|10|0|0|6|0|0|3|0|0|0|7|0|0|2|0|0|8|0|0|0|3|0|0|5|0|0|6|0|0|0|1|0|0|2|0|0|5|0|0|0|5|0|0|3|0|0|5|0|0|0|4|0|0|8|0|0|8|0|0|0|3|0|0|7|0|0|3|0|0|0|7|0|0|3|0|0|7|0|0|0|5|0|0|5|0|0|6|0|0|0|5|0|0|4|0|0|8|0|0|0|2|0|0|4|0|0|2|0|0|0|7|0|0|6|0|0|2|0|0|0|5|0|0|5|0|0|3|0|0|6|0|0|0|5|0|0|5|0|0|9|0|0|0|0|0|0|5|0|0|1|0|0|0|2|0|0|3|0|0|0|0|0|0|2|0|0|0|0|0|2|0|0|0|5|0|0|1|0|0|2|0|0|0|5|0|0|1|0|0|2|0|0|0|3|0|0|0|0|0|0|0|0|0|2|0|0|1|0|0|2|0|0|0|3|0|0|4|0|0|3|0|0|0|10|0|0|2|0|0|1|0|0|0|1|0|0|1|0|0|1|0|0|0|1|0|0|3|0|0|2|0|0|0|2|0|0|2|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|1|0|0|1|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|2|0|0|0|2|0|0|3|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200917.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="2">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-17T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-17T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15459</MDI>
+      <MDI key="STATISTICS_MEAN">14947.299450549</MDI>
+      <MDI key="STATISTICS_MINIMUM">14549</MDI>
+      <MDI key="STATISTICS_STDDEV">180.43227266211</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200917_Terra_Day_1030</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>14548.79166666667</HistMin>
+        <HistMax>15459.20833333333</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|2|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|1|0|0|3|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|3|0|0|2|0|1|0|0|0|0|1|0|1|0|0|2|0|1|0|0|0|0|4|0|5|0|0|4|0|2|0|4|0|0|3|0|1|0|0|1|0|0|0|1|0|0|2|0|1|0|0|0|0|1|0|0|0|0|0|0|3|0|0|3|0|2|0|3|0|0|3|0|3|0|0|1|0|1|0|0|0|0|0|0|2|0|0|0|0|3|0|2|0|0|3|0|1|0|0|2|0|5|0|1|0|0|2|0|0|0|0|2|0|2|0|1|0|0|1|0|1|0|0|3|0|2|0|0|0|0|3|0|0|0|0|2|0|7|0|1|0|0|3|0|2|0|0|0|0|2|0|1|0|0|3|0|5|0|0|3|0|0|0|0|0|0|1|0|5|0|0|3|0|0|0|3|0|0|4|0|1|0|0|0|0|1|0|2|0|0|6|0|2|0|0|2|0|0|0|0|0|0|3|0|4|0|0|4|0|3|0|2|0|0|4|0|3|0|0|2|0|1|0|6|0|0|2|0|2|0|0|1|0|3|0|3|0|0|2|0|4|0|0|3|0|3|0|4|0|0|4|0|2|0|0|4|0|4|0|1|0|0|7|0|2|0|0|4|0|3|0|5|0|0|4|0|5|0|0|3|0|3|0|2|0|0|1|0|4|0|0|4|0|9|0|1|0|0|3|0|3|0|0|8|0|3|0|5|0|0|5|0|4|0|0|4|0|6|0|4|0|0|2|0|3|0|0|2|0|4|0|4|0|0|4|0|3|0|0|3|0|3|0|6|0|0|2|0|3|0|0|4|0|3|0|0|0|0|2|0|7|0|0|7|0|3|0|2|0|0|1|0|7|0|0|0|0|4|0|8|0|0|1|0|7|0|0|8|0|4|0|1|0|0|4|0|3|0|0|4|0|6|0|2|0|0|5|0|7|0|0|3|0|6|0|6|0|0|5|0|4|0|0|7|0|3|0|3|0|0|1|0|4|0|0|7|0|0|0|4|0|0|5|0|10|0|0|4|0|5|0|5|0|0|1|0|2|0|0|4|0|7|0|2|0|0|10|0|5|0|8|0|0|5|0|4|0|0|5|0|3|0|5|0|0|8|0|7|0|0|5|0|12|0|2|0|0|5|0|5|0|0|6|0|4|0|3|0|0|4|0|8|0|0|7|0|5|0|6|0|0|3|0|4|0|0|4|0|4|0|5|0|0|2|0|4|0|0|3|0|6|0|7|0|0|2|0|5|0|0|1|0|4|0|5|0|0|2|0|9|0|0|9|0|4|0|3|0|0|8|0|1|0|0|4|0|7|0|1|0|0|4|0|7|0|0|7|0|3|0|6|0|0|2|0|4|0|0|5|0|7|0|5|0|0|6|0|4|0|0|5|0|2|0|1|0|0|5|0|5|0|0|9|0|0|0|4|0|0|3|0|4|0|0|4|0|6|0|7|0|0|2|0|9|0|0|12|0|3|0|7|0|0|6|0|4|0|0|4|0|12|0|3|0|0|3|0|4|0|0|2|0|4|0|4|0|0|5|0|2|0|0|6|0|5|0|5|0|0|7|0|4|0|0|10|0|9|0|7|0|0|5|0|4|0|0|3|0|5|0|0|0|0|1|0|10|0|0|4|0|3|0|3|0|0|5|0|7|0|0|7|0|5|0|3|0|0|4|0|1|0|0|3|0|6|0|1|0|0|3|0|7|0|0|5|0|6|0|12|0|0|8|0|4|0|0|3|0|8|0|3|0|0|3|0|5|0|0|4|0|3|0|1|0|0|5|0|5|0|0|3|0|5|0|4|0|0|6|0|5|0|0|5|0|7|0|2|0|0|6|0|2|0|0|4|0|2|0|2|0|0|5|0|6|0|0|4|0|2|0|2|0|0|2|0|4|0|0|3|0|5|0|1|0|0|1|0|3|0|0|4|0|3|0|2|0|0|6|0|1|0|0|7|0|1|0|1|0|0|5|0|6|0|0|3|0|2|0|3|0|0|6|0|7|0|0|5|0|3|0|7|0|0|0|0|4|0|0|2|0|4|0|4|0|0|4|0|3|0|5|0|0|8|0|4|0|0|10|0|1|0|5|0|0|1|0|4|0|0|5|0|3|0|0|0|0|5|0|5|0|0|2|0|2|0|1|0|0|5|0|1|0|0|3|0|2|0|1|0|0|0|0|5|0|0|2|0|4|0|1|0|0|1|0|4|0|0|1|0|1|0|2|0|0|3|0|3|0|0|3|0|3|0|0|0|0|3|0|3|0|0|2|0|1|0|0|0|0|2|0|2|0|0|2|0|0|0|1|0|0|3|0|4|0|0|1|0|2|0|0|0|0|4|0|4|0|0|5|0|2|0|6|0|0|3|0|3|0|0|0|0|3|0|0|0|0|1|0|2|0|0|2|0|3|0|5|0|0|3|0|2|0|0|2|0|1|0|1|0|0|0|0|0|0|0|6|0|2|0|4|0|0|3|0|6|0|0|4|0|4|0|2|0|0|2|0|7|0|0|4|0|3|0|2|0|0|6|0|0|0|0|2|0|1|0|1|0|0|4|0|1|0|0|4|0|1|0|1|0|0|6|0|5|0|0|0|0|0|0|1|0|0|2|0|2|0|0|0|0|1|0|3|0|0|3|0|1|0|0|7|0|8|0|1|0|0|1|0|2|0|0|5|0|5|0|3|0|0|2|0|3|0|0|2|0|2|0|5|0|0|2|0|2|0|0|6|0|4|0|6|0|0|0|0|1|0|0|1|0|1|0|1|0|0|7|0|2|0|0|4|0|4|0|2|0|0|6|0|1|0|0|2|0|3|0|3|0|0|2|0|3|0|0|2|0|0|0|6|0|0|4|0|4|0|0|2|0|7|0|1|0|0|3|0|2|0|0|1|0|4|0|5|0|0|2|0|2|0|0|4|0|3|0|2|0|0|4|0|3|0|0|5|0|4|0|1|0|0|0|0|3|0|0|2|0|5|0|1|0|0|8|0|0|0|0|1|0|2|0|4|0|0|7|0|0|0|0|0|0|0|0|1|0|0|3|0|0|0|3|0|0|1|0|4|0|0|0|0|1|0|3|0|0|1|0|3|0|0|3|0|3|0|1|0|0|5|0|3|0|0|2|0|1|0|0|0|0|4|0|3|0|0|7|0|4|0|3|0|0|0|0|4|0|0|2|0|2|0|0|0|0|3|0|5|0|0|5|0|1|0|3|0|0|2|0|0|0|0|3|0|2|0|2|0|0|3|0|2|0|0|1|0|0|0|1|0|0|2|0|1|0|0|6|0|4|0|2|0|0|3|0|5|0|0|1|0|1|0|3|0|0|1|0|0|0|0|3|0|2|0|1|0|0|1|0|4|0|0|2|0|2|0|2|0|0|3|0|1|0|0|1|0|1|0|0|0|0|0|0|1|0|0|1|0|1|0|0|0|0|1|0|2|0|0|0|0|2|0|1|0|0|3|0|1|0|0|0|0|1|0|2|0|0|3|0|0|0|0|1|0|1|0|0|0|0|2|0|2|0|0|3|0|0|0|0|0|0|2|0|0|0|0|1|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4|0|2|0|0|0|0|0|0|0|0|0|1|0|1|0|1|0|0|0|0|0|0|0|1|0|2|0|0|0|0|1|0|3|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|1|0|0|1|0|1|0|0|2|0|0|0|1|0|0|0|0|2|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|3|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|2|0|0|2|0|0|0|0|0|0|2|0|0|0|0|0|0|2|0|0|1|0|2|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200917.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="3">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-17T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-17T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15641</MDI>
+      <MDI key="STATISTICS_MEAN">15075.160298229</MDI>
+      <MDI key="STATISTICS_MINIMUM">14569</MDI>
+      <MDI key="STATISTICS_STDDEV">211.65121818771</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200917_Aqua_Day_1330</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>14568.75457875458</HistMin>
+        <HistMax>15641.24542124542</HistMax>
+        <BucketCount>2184</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2|0|1|0|0|0|0|0|0|0|1|0|1|0|0|2|0|0|0|1|0|0|0|0|0|0|0|1|0|2|0|0|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|1|0|1|0|0|0|1|0|1|0|0|2|0|0|0|1|0|1|0|3|0|1|0|3|0|2|0|1|0|0|0|0|0|2|0|0|0|4|0|0|0|1|0|3|0|2|0|2|0|2|0|2|0|0|0|1|0|1|0|3|0|3|0|3|0|0|0|0|1|0|1|0|2|0|2|0|2|0|0|0|2|0|0|0|0|0|0|0|2|0|1|0|2|0|3|0|6|0|0|0|1|0|0|0|1|0|3|0|1|0|2|0|3|0|0|0|7|0|1|0|4|0|0|1|0|2|0|3|0|0|0|3|0|2|0|0|0|5|0|3|0|3|0|1|0|6|0|1|0|8|0|3|0|0|0|4|0|1|0|1|0|2|0|2|0|4|0|3|0|4|0|0|0|3|0|2|0|0|1|0|3|0|4|0|6|0|0|0|3|0|2|0|2|0|3|0|0|0|3|0|2|0|1|0|6|0|4|0|4|0|1|0|2|0|2|0|3|0|0|0|2|0|6|0|2|0|3|0|2|0|5|0|3|0|0|2|0|2|0|1|0|2|0|3|0|5|0|6|0|1|0|3|0|2|0|1|0|6|0|1|0|0|0|5|0|0|0|3|0|2|0|2|0|5|0|2|0|3|0|4|0|3|0|5|0|4|0|1|0|0|3|0|4|0|1|0|5|0|5|0|3|0|3|0|5|0|4|0|2|0|2|0|2|0|1|0|2|0|6|0|3|0|5|0|7|0|3|0|3|0|7|0|7|0|5|0|7|0|1|0|4|0|1|0|4|0|0|1|0|4|0|7|0|1|0|4|0|5|0|3|0|1|0|5|0|6|0|2|0|2|0|8|0|4|0|5|0|2|0|5|0|3|0|4|0|6|0|7|0|4|0|3|0|5|0|5|0|7|0|3|0|0|3|0|3|0|3|0|5|0|7|0|4|0|6|0|5|0|8|0|1|0|3|0|3|0|12|0|3|0|3|0|7|0|5|0|2|0|5|0|1|0|8|0|8|0|5|0|6|0|3|0|2|0|3|0|6|0|0|3|0|0|0|5|0|5|0|4|0|6|0|3|0|1|0|3|0|6|0|3|0|1|0|4|0|3|0|6|0|2|0|6|0|1|0|1|0|2|0|4|0|7|0|2|0|5|0|2|0|5|0|2|0|0|7|0|7|0|1|0|2|0|1|0|3|0|3|0|1|0|6|0|5|0|4|0|6|0|3|0|9|0|0|0|6|0|4|0|5|0|3|0|7|0|5|0|11|0|8|0|1|0|1|0|3|0|2|0|7|0|0|3|0|7|0|3|0|5|0|3|0|4|0|0|0|3|0|2|0|2|0|2|0|2|0|1|0|2|0|1|0|6|0|6|0|6|0|4|0|3|0|5|0|3|0|4|0|0|0|3|0|2|0|4|0|0|5|0|9|0|3|0|4|0|2|0|2|0|5|0|0|0|3|0|3|0|1|0|5|0|2|0|1|0|3|0|3|0|3|0|0|0|0|0|3|0|4|0|4|0|0|0|4|0|3|0|3|0|2|0|2|0|0|4|0|2|0|2|0|2|0|4|0|1|0|11|0|5|0|4|0|7|0|0|0|1|0|5|0|1|0|2|0|3|0|2|0|1|0|5|0|6|0|6|0|2|0|5|0|0|0|3|0|1|0|2|0|0|1|0|1|0|3|0|3|0|2|0|6|0|5|0|1|0|6|0|4|0|1|0|1|0|3|0|4|0|2|0|1|0|7|0|3|0|4|0|6|0|3|0|4|0|2|0|5|0|1|0|3|0|2|0|0|2|0|1|0|2|0|11|0|0|0|5|0|3|0|0|0|7|0|2|0|2|0|6|0|1|0|5|0|2|0|1|0|0|0|3|0|2|0|3|0|5|0|1|0|2|0|1|0|1|0|7|0|1|0|6|0|0|1|0|4|0|0|0|1|0|3|0|3|0|0|0|2|0|2|0|1|0|1|0|5|0|3|0|4|0|1|0|3|0|4|0|0|0|4|0|4|0|3|0|2|0|3|0|3|0|1|0|6|0|7|0|0|1|0|4|0|3|0|8|0|3|0|5|0|8|0|1|0|4|0|7|0|0|0|4|0|0|0|3|0|7|0|0|0|4|0|3|0|8|0|6|0|2|0|4|0|1|0|3|0|4|0|2|0|8|0|2|0|0|3|0|2|0|4|0|1|0|0|0|2|0|1|0|1|0|4|0|1|0|7|0|5|0|4|0|5|0|0|0|2|0|1|0|2|0|5|0|4|0|7|0|6|0|2|0|3|0|5|0|4|0|4|0|0|1|0|3|0|4|0|2|0|1|0|3|0|5|0|3|0|3|0|6|0|5|0|3|0|3|0|1|0|1|0|3|0|2|0|6|0|3|0|1|0|2|0|5|0|1|0|1|0|0|0|5|0|2|0|5|0|0|1|0|1|0|4|0|0|0|3|0|1|0|2|0|2|0|4|0|2|0|2|0|0|0|3|0|1|0|6|0|0|0|5|0|3|0|2|0|3|0|7|0|2|0|3|0|3|0|4|0|2|0|2|0|0|2|0|1|0|6|0|4|0|2|0|1|0|3|0|3|0|4|0|0|0|5|0|4|0|3|0|6|0|2|0|0|0|1|0|4|0|0|0|4|0|1|0|1|0|1|0|3|0|0|0|3|0|4|0|3|0|0|1|0|3|0|0|0|4|0|10|0|0|0|1|0|2|0|2|0|1|0|3|0|0|0|0|0|2|0|1|0|4|0|1|0|0|0|2|0|0|0|4|0|2|0|2|0|2|0|3|0|0|0|2|0|0|2|0|3|0|0|0|3|0|1|0|4|0|2|0|1|0|1|0|3|0|0|0|0|0|0|0|3|0|0|0|3|0|0|0|3|0|1|0|2|0|0|0|3|0|0|0|2|0|0|0|0|0|1|0|2|0|0|2|0|2|0|2|0|0|0|2|0|2|0|2|0|2|0|3|0|2|0|4|0|3|0|3|0|1|0|3|0|1|0|2|0|0|0|2|0|2|0|1|0|0|0|2|0|1|0|4|0|0|0|0|0|0|3|0|2|0|1|0|0|0|1|0|1|0|5|0|0|0|3|0|3|0|0|0|1|0|2|0|0|0|2|0|1|0|0|0|2|0|2|0|1|0|2|0|1|0|1|0|5|0|0|0|0|0|1|0|1|0|0|0|0|1|0|1|0|0|0|3|0|0|0|1|0|2|0|0|0|2|0|2|0|0|0|1|0|2|0|0|0|0|0|0|0|2|0|4|0|1|0|2|0|2|0|0|0|0|0|1|0|0|0|0|0|0|2|0|0|0|0|0|0|0|3|0|0|0|0|0|1|0|0|0|3|0|0|0|0|0|2|0|1|0|0|0|1|0|2|0|1|0|0|0|0|0|3|0|0|0|1|0|0|0|2|0|4|0|2|0|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|1|0|3|0|0|0|1|0|3|0|2|0|0|0|0|0|0|0|1|0|1|0|0|0|2|0|1|0|1|0|0|0|0|0|2|0|1|0|2|0|0|0|0|3|0|1|0|2|0|0|0|0|0|0|0|3|0|2|0|5|0|0|0|1|0|1|0|0|0|4|0|1|0|0|0|0|0|4|0|2|0|0|0|1|0|1|0|0|0|1|0|0|0|1|0|4|0|1|0|0|2|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|0|2|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|2|0|0|0|0|0|0|2|0|0|0|0|0|0|0|1|0|1|0|2|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|2|0|0|0|0|0|1|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|1|0|0|0|1|0|1|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|2|0|0|0|0|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|3|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200917.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="4">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-17</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-17T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-17T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14117</MDI>
+      <MDI key="STATISTICS_MEAN">13926.423076923</MDI>
+      <MDI key="STATISTICS_MINIMUM">13576</MDI>
+      <MDI key="STATISTICS_STDDEV">81.331437285339</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200917_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200917.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="5">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-18T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-18T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14232</MDI>
+      <MDI key="STATISTICS_MEAN">13844.631868132</MDI>
+      <MDI key="STATISTICS_MINIMUM">13534</MDI>
+      <MDI key="STATISTICS_STDDEV">104.95441192009</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200918_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200918.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="6">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-18T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-18T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15228</MDI>
+      <MDI key="STATISTICS_MEAN">14879.876378676</MDI>
+      <MDI key="STATISTICS_MINIMUM">14562</MDI>
+      <MDI key="STATISTICS_STDDEV">157.42099569822</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200918_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200918.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="7">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-18T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-18T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15409</MDI>
+      <MDI key="STATISTICS_MEAN">14879.587819947</MDI>
+      <MDI key="STATISTICS_MINIMUM">14245</MDI>
+      <MDI key="STATISTICS_STDDEV">159.53084047366</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200918_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200918.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="8">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-18</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-18T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-18T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14911</MDI>
+      <MDI key="STATISTICS_MEAN">13967.217690192</MDI>
+      <MDI key="STATISTICS_MINIMUM">13591</MDI>
+      <MDI key="STATISTICS_STDDEV">104.64818873393</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200918_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200918.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="9">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-19T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-19T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200919_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200919.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="10">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-19T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-19T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16416</MDI>
+      <MDI key="STATISTICS_MEAN">14817.834754797</MDI>
+      <MDI key="STATISTICS_MINIMUM">14156</MDI>
+      <MDI key="STATISTICS_STDDEV">198.89937470435</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200919_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200919.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="11">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-19T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-19T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16427</MDI>
+      <MDI key="STATISTICS_MEAN">14706.705223881</MDI>
+      <MDI key="STATISTICS_MINIMUM">14284</MDI>
+      <MDI key="STATISTICS_STDDEV">135.00510270884</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200919_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200919.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="12">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-19</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-19T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-19T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200919_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200919.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="13">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-20T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-20T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14030</MDI>
+      <MDI key="STATISTICS_MEAN">13851.940420561</MDI>
+      <MDI key="STATISTICS_MINIMUM">13582</MDI>
+      <MDI key="STATISTICS_STDDEV">63.370732846847</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200920_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200920.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="14">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-20T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-20T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15028</MDI>
+      <MDI key="STATISTICS_MEAN">14633.080256031</MDI>
+      <MDI key="STATISTICS_MINIMUM">14247</MDI>
+      <MDI key="STATISTICS_STDDEV">169.93573850938</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200920_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="15">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-20T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-20T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15797</MDI>
+      <MDI key="STATISTICS_MEAN">14822.148683531</MDI>
+      <MDI key="STATISTICS_MINIMUM">14338</MDI>
+      <MDI key="STATISTICS_STDDEV">220.18766553466</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200920_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200920.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="16">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-20</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-20T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-20T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15306</MDI>
+      <MDI key="STATISTICS_MEAN">13866.722797927</MDI>
+      <MDI key="STATISTICS_MINIMUM">13097</MDI>
+      <MDI key="STATISTICS_STDDEV">137.62039131487</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200920_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200920.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="17">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-21T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-21T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13994</MDI>
+      <MDI key="STATISTICS_MEAN">13817.967904631</MDI>
+      <MDI key="STATISTICS_MINIMUM">13560</MDI>
+      <MDI key="STATISTICS_STDDEV">80.344338773498</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200921_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200921.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="18">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-21T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-21T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15525</MDI>
+      <MDI key="STATISTICS_MEAN">15029.647247706</MDI>
+      <MDI key="STATISTICS_MINIMUM">14524</MDI>
+      <MDI key="STATISTICS_STDDEV">223.18312604995</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200921_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200921.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="19">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-21T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-21T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15441</MDI>
+      <MDI key="STATISTICS_MEAN">14974.930200093</MDI>
+      <MDI key="STATISTICS_MINIMUM">14422</MDI>
+      <MDI key="STATISTICS_STDDEV">226.83098863218</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200921_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200921.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="20">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-21</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-21T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-21T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14066</MDI>
+      <MDI key="STATISTICS_MEAN">13883.783310281</MDI>
+      <MDI key="STATISTICS_MINIMUM">13718</MDI>
+      <MDI key="STATISTICS_STDDEV">61.672361158238</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200921_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200921.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="21">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-22T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-22T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14998</MDI>
+      <MDI key="STATISTICS_MEAN">13822.664832646</MDI>
+      <MDI key="STATISTICS_MINIMUM">13495</MDI>
+      <MDI key="STATISTICS_STDDEV">121.95180183114</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200922_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200922.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="22">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-22T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-22T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15394</MDI>
+      <MDI key="STATISTICS_MEAN">14931.14553473</MDI>
+      <MDI key="STATISTICS_MINIMUM">14231</MDI>
+      <MDI key="STATISTICS_STDDEV">159.09882544787</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200922_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200922.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="23">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-22T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-22T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15600</MDI>
+      <MDI key="STATISTICS_MEAN">14924.890207715</MDI>
+      <MDI key="STATISTICS_MINIMUM">14321</MDI>
+      <MDI key="STATISTICS_STDDEV">113.58662933506</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200922_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200922.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="24">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-22</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-22T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-22T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15282</MDI>
+      <MDI key="STATISTICS_MEAN">13930.112033195</MDI>
+      <MDI key="STATISTICS_MINIMUM">13608</MDI>
+      <MDI key="STATISTICS_STDDEV">107.8054056814</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200922_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200922.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="25">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-23T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-23T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14004</MDI>
+      <MDI key="STATISTICS_MEAN">13873.68828125</MDI>
+      <MDI key="STATISTICS_MINIMUM">13662</MDI>
+      <MDI key="STATISTICS_STDDEV">51.3826440541</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200923_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200923.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="26">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-23T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-23T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15498</MDI>
+      <MDI key="STATISTICS_MEAN">14760.375893769</MDI>
+      <MDI key="STATISTICS_MINIMUM">14176</MDI>
+      <MDI key="STATISTICS_STDDEV">236.11152277172</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200923_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200923.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="27">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-23T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-23T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15440</MDI>
+      <MDI key="STATISTICS_MEAN">14802.75653031</MDI>
+      <MDI key="STATISTICS_MINIMUM">14102</MDI>
+      <MDI key="STATISTICS_STDDEV">207.80601094145</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200923_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200923.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="28">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-23</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-23T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-23T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14026</MDI>
+      <MDI key="STATISTICS_MEAN">13892.686971235</MDI>
+      <MDI key="STATISTICS_MINIMUM">13487</MDI>
+      <MDI key="STATISTICS_STDDEV">45.840365295324</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200923_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200923.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="29">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-24T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-24T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14392</MDI>
+      <MDI key="STATISTICS_MEAN">13875.835192698</MDI>
+      <MDI key="STATISTICS_MINIMUM">13390</MDI>
+      <MDI key="STATISTICS_STDDEV">115.01661175218</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200924_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200924.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="30">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-24T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-24T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15586</MDI>
+      <MDI key="STATISTICS_MEAN">14941.823772373</MDI>
+      <MDI key="STATISTICS_MINIMUM">14478</MDI>
+      <MDI key="STATISTICS_STDDEV">239.08511631082</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200924_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200924.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="31">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-24T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-24T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16630</MDI>
+      <MDI key="STATISTICS_MEAN">15169.665139716</MDI>
+      <MDI key="STATISTICS_MINIMUM">14462</MDI>
+      <MDI key="STATISTICS_STDDEV">271.76920356943</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200924_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200924.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="32">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-24</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-24T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-24T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14903</MDI>
+      <MDI key="STATISTICS_MEAN">13927.402693915</MDI>
+      <MDI key="STATISTICS_MINIMUM">13589</MDI>
+      <MDI key="STATISTICS_STDDEV">113.61412859195</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200924_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200924.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="33">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-25T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-25T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14243</MDI>
+      <MDI key="STATISTICS_MEAN">13992.057380842</MDI>
+      <MDI key="STATISTICS_MINIMUM">13568</MDI>
+      <MDI key="STATISTICS_STDDEV">103.21447779791</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200925_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200925.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="34">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-25T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-25T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15205</MDI>
+      <MDI key="STATISTICS_MEAN">14716.041911765</MDI>
+      <MDI key="STATISTICS_MINIMUM">14022</MDI>
+      <MDI key="STATISTICS_STDDEV">201.46325071679</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200925_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="35">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-25T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-25T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16512</MDI>
+      <MDI key="STATISTICS_MEAN">14823.364465915</MDI>
+      <MDI key="STATISTICS_MINIMUM">14192</MDI>
+      <MDI key="STATISTICS_STDDEV">233.87614166773</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200925_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200925.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="36">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-25</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-25T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-25T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16068</MDI>
+      <MDI key="STATISTICS_MEAN">14131.763746505</MDI>
+      <MDI key="STATISTICS_MINIMUM">13753</MDI>
+      <MDI key="STATISTICS_STDDEV">134.87048196992</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200925_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200925.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="37">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-26T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-26T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16403</MDI>
+      <MDI key="STATISTICS_MEAN">14119.615227736</MDI>
+      <MDI key="STATISTICS_MINIMUM">13502</MDI>
+      <MDI key="STATISTICS_STDDEV">314.58689307359</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200926_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200926.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="38">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-26T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-26T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">17502</MDI>
+      <MDI key="STATISTICS_MEAN">14837.5824</MDI>
+      <MDI key="STATISTICS_MINIMUM">14024</MDI>
+      <MDI key="STATISTICS_STDDEV">292.30784051972</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200926_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200926.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="39">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-26T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-26T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16449</MDI>
+      <MDI key="STATISTICS_MEAN">14755.970260223</MDI>
+      <MDI key="STATISTICS_MINIMUM">14344</MDI>
+      <MDI key="STATISTICS_STDDEV">124.98629185289</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200926_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200926.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="40">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-26</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-26T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-26T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15159</MDI>
+      <MDI key="STATISTICS_MEAN">14053.484589041</MDI>
+      <MDI key="STATISTICS_MINIMUM">13719</MDI>
+      <MDI key="STATISTICS_STDDEV">125.09370455054</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200926_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200926.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="41">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-27T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-27T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14141</MDI>
+      <MDI key="STATISTICS_MEAN">13799.527681661</MDI>
+      <MDI key="STATISTICS_MINIMUM">13651</MDI>
+      <MDI key="STATISTICS_STDDEV">36.550056354926</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200927_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200927.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="42">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-27T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-27T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14162</MDI>
+      <MDI key="STATISTICS_MEAN">14143.75</MDI>
+      <MDI key="STATISTICS_MINIMUM">14074</MDI>
+      <MDI key="STATISTICS_STDDEV">2.205605994324</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200927_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200927.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="43">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-27T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-27T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14671</MDI>
+      <MDI key="STATISTICS_MEAN">14491.387096774</MDI>
+      <MDI key="STATISTICS_MINIMUM">14369</MDI>
+      <MDI key="STATISTICS_STDDEV">10.30059027759</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200927_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200927.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="44">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-27</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-27T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-27T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13944</MDI>
+      <MDI key="STATISTICS_MEAN">13944</MDI>
+      <MDI key="STATISTICS_MINIMUM">13944</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200927_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200927.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="45">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-28T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-28T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13601</MDI>
+      <MDI key="STATISTICS_MEAN">13334.74291939</MDI>
+      <MDI key="STATISTICS_MINIMUM">13087</MDI>
+      <MDI key="STATISTICS_STDDEV">28.444033349553</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200928_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200928.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="46">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-28T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-28T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15095</MDI>
+      <MDI key="STATISTICS_MEAN">14582.174986286</MDI>
+      <MDI key="STATISTICS_MINIMUM">13914</MDI>
+      <MDI key="STATISTICS_STDDEV">234.73283109626</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200928_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="47">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-28T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-28T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15090</MDI>
+      <MDI key="STATISTICS_MEAN">14575.055837563</MDI>
+      <MDI key="STATISTICS_MINIMUM">14016</MDI>
+      <MDI key="STATISTICS_STDDEV">154.80610077713</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200928_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200928.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="48">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-28</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-28T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-28T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13538</MDI>
+      <MDI key="STATISTICS_MEAN">13415.028653295</MDI>
+      <MDI key="STATISTICS_MINIMUM">13209</MDI>
+      <MDI key="STATISTICS_STDDEV">20.173534160509</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200928_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200928.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="49">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-29T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-29T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14068</MDI>
+      <MDI key="STATISTICS_MEAN">13578.133550489</MDI>
+      <MDI key="STATISTICS_MINIMUM">13125</MDI>
+      <MDI key="STATISTICS_STDDEV">109.47178015927</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200929_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200929.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="50">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-29T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-29T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15343</MDI>
+      <MDI key="STATISTICS_MEAN">14797.571768061</MDI>
+      <MDI key="STATISTICS_MINIMUM">14360</MDI>
+      <MDI key="STATISTICS_STDDEV">197.14944216805</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200929_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200929.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="51">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-29T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-29T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15855</MDI>
+      <MDI key="STATISTICS_MEAN">14999.327458256</MDI>
+      <MDI key="STATISTICS_MINIMUM">14412</MDI>
+      <MDI key="STATISTICS_STDDEV">260.38531677773</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200929_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200929.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="52">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-29</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-29T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-29T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14404</MDI>
+      <MDI key="STATISTICS_MEAN">13595.174780527</MDI>
+      <MDI key="STATISTICS_MINIMUM">13322</MDI>
+      <MDI key="STATISTICS_STDDEV">81.364385392065</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200929_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200929.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="53">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-30T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-30T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15069</MDI>
+      <MDI key="STATISTICS_MEAN">13808.386605784</MDI>
+      <MDI key="STATISTICS_MINIMUM">13264</MDI>
+      <MDI key="STATISTICS_STDDEV">169.31147387604</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200930_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200930.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="54">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-30T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-30T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16825</MDI>
+      <MDI key="STATISTICS_MEAN">14877.145437262</MDI>
+      <MDI key="STATISTICS_MINIMUM">14343</MDI>
+      <MDI key="STATISTICS_STDDEV">266.6358637454</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200930_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200930.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="55">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-09-30T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-09-30T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16594</MDI>
+      <MDI key="STATISTICS_MEAN">14842.485442329</MDI>
+      <MDI key="STATISTICS_MINIMUM">14302</MDI>
+      <MDI key="STATISTICS_STDDEV">238.37333752117</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200930_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20200930.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="56">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-09-30</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-09-30T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-09-30T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16018</MDI>
+      <MDI key="STATISTICS_MEAN">13899.199608611</MDI>
+      <MDI key="STATISTICS_MINIMUM">13478</MDI>
+      <MDI key="STATISTICS_STDDEV">253.54888460868</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20200930_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20200930.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="57">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-01T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-01T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14468</MDI>
+      <MDI key="STATISTICS_MEAN">13569.100058173</MDI>
+      <MDI key="STATISTICS_MINIMUM">13123</MDI>
+      <MDI key="STATISTICS_STDDEV">131.93944732712</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201001_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201001.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="58">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-01T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-01T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15739</MDI>
+      <MDI key="STATISTICS_MEAN">14688.987840467</MDI>
+      <MDI key="STATISTICS_MINIMUM">14193</MDI>
+      <MDI key="STATISTICS_STDDEV">265.35384550134</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201001_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201001.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="59">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-01T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-01T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16654</MDI>
+      <MDI key="STATISTICS_MEAN">14893.685148515</MDI>
+      <MDI key="STATISTICS_MINIMUM">14175</MDI>
+      <MDI key="STATISTICS_STDDEV">288.98274590044</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201001_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201001.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="60">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-01</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-01T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-01T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15164</MDI>
+      <MDI key="STATISTICS_MEAN">13706.846112886</MDI>
+      <MDI key="STATISTICS_MINIMUM">13290</MDI>
+      <MDI key="STATISTICS_STDDEV">172.66108172436</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201001_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201001.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="61">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-02T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-02T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201002_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201002.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="62">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-02T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-02T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15236</MDI>
+      <MDI key="STATISTICS_MEAN">14618.315363881</MDI>
+      <MDI key="STATISTICS_MINIMUM">14076</MDI>
+      <MDI key="STATISTICS_STDDEV">250.41837018198</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201002_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201002.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="63">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-02T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-02T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15843</MDI>
+      <MDI key="STATISTICS_MEAN">14768.0608</MDI>
+      <MDI key="STATISTICS_MINIMUM">14223</MDI>
+      <MDI key="STATISTICS_STDDEV">254.16381945823</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201002_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201002.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="64">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-02</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-02T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-02T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201002_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201002.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="65">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-03T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-03T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15296</MDI>
+      <MDI key="STATISTICS_MEAN">13614.216764898</MDI>
+      <MDI key="STATISTICS_MINIMUM">13201</MDI>
+      <MDI key="STATISTICS_STDDEV">124.66200319898</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201003_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201003.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="66">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-03T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-03T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15493</MDI>
+      <MDI key="STATISTICS_MEAN">14728.024053224</MDI>
+      <MDI key="STATISTICS_MINIMUM">14023</MDI>
+      <MDI key="STATISTICS_STDDEV">253.03512174009</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201003_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201003.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="67">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-03T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-03T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16490</MDI>
+      <MDI key="STATISTICS_MEAN">14817.734207969</MDI>
+      <MDI key="STATISTICS_MINIMUM">14195</MDI>
+      <MDI key="STATISTICS_STDDEV">258.31381223781</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201003_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201003.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="68">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-03</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-03T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-03T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14248</MDI>
+      <MDI key="STATISTICS_MEAN">13756.333333333</MDI>
+      <MDI key="STATISTICS_MINIMUM">13439</MDI>
+      <MDI key="STATISTICS_STDDEV">51.361692965414</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201003_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201003.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="69">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-04T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-04T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14284</MDI>
+      <MDI key="STATISTICS_MEAN">13628.081976113</MDI>
+      <MDI key="STATISTICS_MINIMUM">13264</MDI>
+      <MDI key="STATISTICS_STDDEV">98.330789932053</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201004_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201004.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="70">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-04T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-04T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15317</MDI>
+      <MDI key="STATISTICS_MEAN">14802.512229539</MDI>
+      <MDI key="STATISTICS_MINIMUM">14278</MDI>
+      <MDI key="STATISTICS_STDDEV">222.36164738164</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201004_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201004.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="71">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-04T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-04T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16361</MDI>
+      <MDI key="STATISTICS_MEAN">14919.820715037</MDI>
+      <MDI key="STATISTICS_MINIMUM">13992</MDI>
+      <MDI key="STATISTICS_STDDEV">291.7155598976</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201004_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201004.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="72">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-04</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-04T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-04T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14579</MDI>
+      <MDI key="STATISTICS_MEAN">13640.142776204</MDI>
+      <MDI key="STATISTICS_MINIMUM">13324</MDI>
+      <MDI key="STATISTICS_STDDEV">91.537197998396</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201004_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201004.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="73">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-05T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-05T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14199</MDI>
+      <MDI key="STATISTICS_MEAN">13819.141309954</MDI>
+      <MDI key="STATISTICS_MINIMUM">13334</MDI>
+      <MDI key="STATISTICS_STDDEV">119.74367211026</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201005_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201005.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="74">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-05T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-05T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16939</MDI>
+      <MDI key="STATISTICS_MEAN">14892.132119514</MDI>
+      <MDI key="STATISTICS_MINIMUM">14308</MDI>
+      <MDI key="STATISTICS_STDDEV">257.85313067907</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201005_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201005.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="75">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-05T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-05T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15905</MDI>
+      <MDI key="STATISTICS_MEAN">14882.053033923</MDI>
+      <MDI key="STATISTICS_MINIMUM">14322</MDI>
+      <MDI key="STATISTICS_STDDEV">266.8850254532</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201005_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201005.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="76">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-05</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-05T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-05T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14983</MDI>
+      <MDI key="STATISTICS_MEAN">13960.31259333</MDI>
+      <MDI key="STATISTICS_MINIMUM">13583</MDI>
+      <MDI key="STATISTICS_STDDEV">148.90654211149</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201005_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201005.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="77">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-06T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-06T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14086</MDI>
+      <MDI key="STATISTICS_MEAN">13689.693406593</MDI>
+      <MDI key="STATISTICS_MINIMUM">13115</MDI>
+      <MDI key="STATISTICS_STDDEV">133.62306032457</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201006_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201006.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="78">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-06T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-06T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15425</MDI>
+      <MDI key="STATISTICS_MEAN">14916.277518657</MDI>
+      <MDI key="STATISTICS_MINIMUM">14475</MDI>
+      <MDI key="STATISTICS_STDDEV">226.07704556077</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201006_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201006.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="79">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-06T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-06T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16742</MDI>
+      <MDI key="STATISTICS_MEAN">15066.994869403</MDI>
+      <MDI key="STATISTICS_MINIMUM">14243</MDI>
+      <MDI key="STATISTICS_STDDEV">308.65020665105</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201006_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201006.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="80">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-06</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-06T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-06T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14775</MDI>
+      <MDI key="STATISTICS_MEAN">13761.309241094</MDI>
+      <MDI key="STATISTICS_MINIMUM">13340</MDI>
+      <MDI key="STATISTICS_STDDEV">122.91323144708</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201006_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201006.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="81">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-07T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-07T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14147</MDI>
+      <MDI key="STATISTICS_MEAN">13735.202935223</MDI>
+      <MDI key="STATISTICS_MINIMUM">13169</MDI>
+      <MDI key="STATISTICS_STDDEV">157.72348761462</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201007_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201007.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="82">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-07T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-07T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16271</MDI>
+      <MDI key="STATISTICS_MEAN">15054.665890028</MDI>
+      <MDI key="STATISTICS_MINIMUM">14370</MDI>
+      <MDI key="STATISTICS_STDDEV">237.68631739349</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201007_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201007.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="83">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-07T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-07T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15543</MDI>
+      <MDI key="STATISTICS_MEAN">15047.73581115</MDI>
+      <MDI key="STATISTICS_MINIMUM">14482</MDI>
+      <MDI key="STATISTICS_STDDEV">232.49462726003</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201007_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201007.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="84">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-07</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-07T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-07T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14138</MDI>
+      <MDI key="STATISTICS_MEAN">13828.708535403</MDI>
+      <MDI key="STATISTICS_MINIMUM">13410</MDI>
+      <MDI key="STATISTICS_STDDEV">124.74223340231</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201007_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201007.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="85">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-08T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-08T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14601</MDI>
+      <MDI key="STATISTICS_MEAN">13670.775586354</MDI>
+      <MDI key="STATISTICS_MINIMUM">13109</MDI>
+      <MDI key="STATISTICS_STDDEV">127.04058673709</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201008_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201008.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="86">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-08T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-08T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15618</MDI>
+      <MDI key="STATISTICS_MEAN">14949.33551708</MDI>
+      <MDI key="STATISTICS_MINIMUM">14457</MDI>
+      <MDI key="STATISTICS_STDDEV">207.62809986732</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201008_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201008.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="87">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-08T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-08T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">16239</MDI>
+      <MDI key="STATISTICS_MEAN">14853.665697674</MDI>
+      <MDI key="STATISTICS_MINIMUM">14028</MDI>
+      <MDI key="STATISTICS_STDDEV">208.50251533278</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201008_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201008.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="88">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-08</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-08T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-08T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15093</MDI>
+      <MDI key="STATISTICS_MEAN">13767.716574862</MDI>
+      <MDI key="STATISTICS_MINIMUM">13355</MDI>
+      <MDI key="STATISTICS_STDDEV">121.23503189468</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201008_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201008.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="89">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-09T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-09T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14048</MDI>
+      <MDI key="STATISTICS_MEAN">13799.279589935</MDI>
+      <MDI key="STATISTICS_MINIMUM">13433</MDI>
+      <MDI key="STATISTICS_STDDEV">88.084424209075</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201009_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201009.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="90">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-09T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-09T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15567</MDI>
+      <MDI key="STATISTICS_MEAN">15032.866387337</MDI>
+      <MDI key="STATISTICS_MINIMUM">14232</MDI>
+      <MDI key="STATISTICS_STDDEV">227.05956654509</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201009_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201009.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="91">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-09T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-09T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15331</MDI>
+      <MDI key="STATISTICS_MEAN">14832.839135021</MDI>
+      <MDI key="STATISTICS_MINIMUM">14237</MDI>
+      <MDI key="STATISTICS_STDDEV">225.84224398256</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201009_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201009.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="92">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-09</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-09T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-09T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14111</MDI>
+      <MDI key="STATISTICS_MEAN">13850.073414113</MDI>
+      <MDI key="STATISTICS_MINIMUM">13558</MDI>
+      <MDI key="STATISTICS_STDDEV">91.600200940992</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201009_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201009.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="93">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-10T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-10T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14053</MDI>
+      <MDI key="STATISTICS_MEAN">13729.559292035</MDI>
+      <MDI key="STATISTICS_MINIMUM">13322</MDI>
+      <MDI key="STATISTICS_STDDEV">94.242001514332</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201010_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201010.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="94">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-10T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-10T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15347</MDI>
+      <MDI key="STATISTICS_MEAN">14786.656534954</MDI>
+      <MDI key="STATISTICS_MINIMUM">14161</MDI>
+      <MDI key="STATISTICS_STDDEV">182.37486144953</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201010_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201010.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="95">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-10T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-10T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15463</MDI>
+      <MDI key="STATISTICS_MEAN">14728.26557377</MDI>
+      <MDI key="STATISTICS_MINIMUM">14003</MDI>
+      <MDI key="STATISTICS_STDDEV">142.74691747147</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201010_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201010.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="96">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-10</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-10T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-10T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14054</MDI>
+      <MDI key="STATISTICS_MEAN">13824.177873152</MDI>
+      <MDI key="STATISTICS_MINIMUM">13525</MDI>
+      <MDI key="STATISTICS_STDDEV">81.966234933052</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201010_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201010.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="97">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-11T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-11T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14030</MDI>
+      <MDI key="STATISTICS_MEAN">13865.465346535</MDI>
+      <MDI key="STATISTICS_MINIMUM">13682</MDI>
+      <MDI key="STATISTICS_STDDEV">37.408493951978</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201011_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201011.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="98">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-11T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-11T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201011_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201011.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="99">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-11T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-11T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201011_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201011.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="100">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-11</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-11T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-11T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14160</MDI>
+      <MDI key="STATISTICS_MEAN">13963.007208073</MDI>
+      <MDI key="STATISTICS_MINIMUM">13560</MDI>
+      <MDI key="STATISTICS_STDDEV">79.215758825186</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201011_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201011.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="101">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-12T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-12T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13730</MDI>
+      <MDI key="STATISTICS_MEAN">13404.756604834</MDI>
+      <MDI key="STATISTICS_MINIMUM">13158</MDI>
+      <MDI key="STATISTICS_STDDEV">73.087513433655</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201012_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201012.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="102">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-12T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-12T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14877</MDI>
+      <MDI key="STATISTICS_MEAN">14515.477099237</MDI>
+      <MDI key="STATISTICS_MINIMUM">13996</MDI>
+      <MDI key="STATISTICS_STDDEV">51.683699909675</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201012_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201012.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="103">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-12T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-12T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14830</MDI>
+      <MDI key="STATISTICS_MEAN">14496.630747126</MDI>
+      <MDI key="STATISTICS_MINIMUM">13843</MDI>
+      <MDI key="STATISTICS_STDDEV">103.6368874596</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201012_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201012.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="104">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-12</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-12T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-12T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13619</MDI>
+      <MDI key="STATISTICS_MEAN">13458.538299368</MDI>
+      <MDI key="STATISTICS_MINIMUM">13283</MDI>
+      <MDI key="STATISTICS_STDDEV">53.968981317537</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201012_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201012.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="105">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-13T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-13T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13973</MDI>
+      <MDI key="STATISTICS_MEAN">13669.762310606</MDI>
+      <MDI key="STATISTICS_MINIMUM">13307</MDI>
+      <MDI key="STATISTICS_STDDEV">106.33509847175</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201013_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201013.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="106">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-13T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-13T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14942</MDI>
+      <MDI key="STATISTICS_MEAN">14560.722431078</MDI>
+      <MDI key="STATISTICS_MINIMUM">14077</MDI>
+      <MDI key="STATISTICS_STDDEV">179.34083370028</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201013_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201013.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="107">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-13T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-13T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15180</MDI>
+      <MDI key="STATISTICS_MEAN">14729.137610186</MDI>
+      <MDI key="STATISTICS_MINIMUM">14093</MDI>
+      <MDI key="STATISTICS_STDDEV">211.30895077889</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201013_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201013.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="108">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-13</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-13T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-13T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13979</MDI>
+      <MDI key="STATISTICS_MEAN">13737.815513627</MDI>
+      <MDI key="STATISTICS_MINIMUM">13536</MDI>
+      <MDI key="STATISTICS_STDDEV">73.563048963378</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201013_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201013.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="109">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-14T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-14T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14126</MDI>
+      <MDI key="STATISTICS_MEAN">13903.179930796</MDI>
+      <MDI key="STATISTICS_MINIMUM">13284</MDI>
+      <MDI key="STATISTICS_STDDEV">122.61635818106</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201014_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201014.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="110">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-14T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-14T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14427</MDI>
+      <MDI key="STATISTICS_MEAN">14331.304347826</MDI>
+      <MDI key="STATISTICS_MINIMUM">14189</MDI>
+      <MDI key="STATISTICS_STDDEV">7.6640719135848</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201014_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201014.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="111">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-14T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-14T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14540</MDI>
+      <MDI key="STATISTICS_MEAN">14526.5</MDI>
+      <MDI key="STATISTICS_MINIMUM">14521</MDI>
+      <MDI key="STATISTICS_STDDEV">0.45467655452063</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201014_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201014.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="112">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-14</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-14T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-14T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14113</MDI>
+      <MDI key="STATISTICS_MEAN">13919.329075426</MDI>
+      <MDI key="STATISTICS_MINIMUM">13605</MDI>
+      <MDI key="STATISTICS_STDDEV">78.860155544458</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201014_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201014.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="113">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-15T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-15T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13336</MDI>
+      <MDI key="STATISTICS_MEAN">13160.492957746</MDI>
+      <MDI key="STATISTICS_MINIMUM">13030</MDI>
+      <MDI key="STATISTICS_STDDEV">12.399296670036</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201015_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201015.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="114">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-15T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-15T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201015_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201015.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="115">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-15T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-15T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13476</MDI>
+      <MDI key="STATISTICS_MEAN">13458.5</MDI>
+      <MDI key="STATISTICS_MINIMUM">13441</MDI>
+      <MDI key="STATISTICS_STDDEV">0.5295740910852</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201015_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201015.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="116">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-15</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-15T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-15T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13497</MDI>
+      <MDI key="STATISTICS_MEAN">13357.435779817</MDI>
+      <MDI key="STATISTICS_MINIMUM">13166</MDI>
+      <MDI key="STATISTICS_STDDEV">37.751530078108</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201015_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201015.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="117">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-16T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-16T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13464</MDI>
+      <MDI key="STATISTICS_MEAN">13301.701629328</MDI>
+      <MDI key="STATISTICS_MINIMUM">13034</MDI>
+      <MDI key="STATISTICS_STDDEV">64.904371592558</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201016_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="118">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-16T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-16T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15092</MDI>
+      <MDI key="STATISTICS_MEAN">14472.625954198</MDI>
+      <MDI key="STATISTICS_MINIMUM">13752</MDI>
+      <MDI key="STATISTICS_STDDEV">240.53751307561</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201016_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="119">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-16T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-16T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14877</MDI>
+      <MDI key="STATISTICS_MEAN">14432.873626374</MDI>
+      <MDI key="STATISTICS_MINIMUM">13784</MDI>
+      <MDI key="STATISTICS_STDDEV">226.12998610749</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201016_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201016.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="120">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-16</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-16T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-16T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13324</MDI>
+      <MDI key="STATISTICS_MEAN">13221.807692308</MDI>
+      <MDI key="STATISTICS_MINIMUM">13084</MDI>
+      <MDI key="STATISTICS_STDDEV">13.002618947417</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201016_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201016.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="121">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-17T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-17T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13941</MDI>
+      <MDI key="STATISTICS_MEAN">13724.53375</MDI>
+      <MDI key="STATISTICS_MINIMUM">13518</MDI>
+      <MDI key="STATISTICS_STDDEV">73.875897782608</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201017_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201017.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="122">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-17T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-17T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14391</MDI>
+      <MDI key="STATISTICS_MEAN">14150.173913043</MDI>
+      <MDI key="STATISTICS_MINIMUM">13841</MDI>
+      <MDI key="STATISTICS_STDDEV">32.284002698253</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201017_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201017.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="123">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-17T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-17T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201017_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201017.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="124">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-17</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-17T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-17T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13949</MDI>
+      <MDI key="STATISTICS_MEAN">13789.237406484</MDI>
+      <MDI key="STATISTICS_MINIMUM">13573</MDI>
+      <MDI key="STATISTICS_STDDEV">72.461562056178</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201017_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201017.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="125">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-18T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-18T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201018_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="126">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-18T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-18T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201018_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="127">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-18T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-18T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201018_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201018.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="128">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-18</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-18T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-18T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201018_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201018.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="129">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-19T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-19T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201019_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201019.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="130">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-19T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-19T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14699</MDI>
+      <MDI key="STATISTICS_MEAN">14324.150857143</MDI>
+      <MDI key="STATISTICS_MINIMUM">13758</MDI>
+      <MDI key="STATISTICS_STDDEV">127.26389898672</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201019_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201019.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="131">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-19T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-19T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">15039</MDI>
+      <MDI key="STATISTICS_MEAN">14507.515800204</MDI>
+      <MDI key="STATISTICS_MINIMUM">13883</MDI>
+      <MDI key="STATISTICS_STDDEV">233.58958130771</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201019_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201019.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="132">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-19</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-19T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-19T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1.7976931348623e+308</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201019_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201019.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="133">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+      <MDI key="ACQUISITION_TIME">01:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-20T01:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-20T01:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13920</MDI>
+      <MDI key="STATISTICS_MEAN">13653.381805651</MDI>
+      <MDI key="STATISTICS_MINIMUM">13340</MDI>
+      <MDI key="STATISTICS_STDDEV">82.320646646618</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201020_Aqua_Night_0130</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201020.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="134">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+      <MDI key="ACQUISITION_TIME">10:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-20T10:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-20T10:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14776</MDI>
+      <MDI key="STATISTICS_MEAN">14403.202182654</MDI>
+      <MDI key="STATISTICS_MINIMUM">13789</MDI>
+      <MDI key="STATISTICS_STDDEV">199.16973364043</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201020_Terra_Day_1030</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201020.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="135">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+      <MDI key="ACQUISITION_TIME">13:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Day_1km</MDI>
+      <MDI key="END_TIME">2020-10-20T13:30:00</MDI>
+      <MDI key="PLATFORM">Aqua</MDI>
+      <MDI key="START_TIME">2020-10-20T13:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">14574</MDI>
+      <MDI key="STATISTICS_MEAN">14275.888641425</MDI>
+      <MDI key="STATISTICS_MINIMUM">13862</MDI>
+      <MDI key="STATISTICS_STDDEV">64.107547686386</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201020_Aqua_Day_1330</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Aqua/MODIS_MullenRegion_Aqua_LST_20201020.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="136">
+    <Metadata>
+      <MDI key="ACQUISITION_DATE">2020-10-20</MDI>
+      <MDI key="ACQUISITION_TIME">22:30:00</MDI>
+      <MDI key="BAND_NAME">LST_Night_1km</MDI>
+      <MDI key="END_TIME">2020-10-20T22:30:00</MDI>
+      <MDI key="PLATFORM">Terra</MDI>
+      <MDI key="START_TIME">2020-10-20T22:30:00</MDI>
+      <MDI key="STATISTICS_MAXIMUM">13924</MDI>
+      <MDI key="STATISTICS_MEAN">13731.066451315</MDI>
+      <MDI key="STATISTICS_MINIMUM">13567</MDI>
+      <MDI key="STATISTICS_STDDEV">66.609781236139</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Description>20201020_Terra_Night_2230</Description>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">MODIS_Terra/MODIS_MullenRegion_Terra_LST_20201020.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="52" RasterYSize="42" DataType="Float32" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="52" ySize="42" />
+      <DstRect xOff="0" yOff="0" xSize="52" ySize="42" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>

@@ -1,0 +1,712 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>20200917_20200917_u_component_of_wind_10m</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.1556149795651436</HistMin>
+        <HistMax>0.5592771098017693</HistMax>
+        <BucketCount>20</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|2|0|3|0|1|1|2|1|1|0|0|1|1|1|1|2|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.16522598266602</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.5496661067009</MDI>
+      <MDI key="STATISTICS_MEAN">0.37884699627757</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11872063570407</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>20200917_20200917_v_component_of_wind_10m</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.01119321212172508</HistMin>
+        <HistMax>0.4450629018247128</HistMax>
+        <BucketCount>20</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|3|0|1|2|4|3|0|0|2|0|1|0|0|1|1|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-0.00032997131347656</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.43419966101646</MDI>
+      <MDI key="STATISTICS_MEAN">0.14773521469906</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11282485124574</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>20200918_20200918_u_component_of_wind_10m</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.01825154572725296</HistMin>
+        <HistMax>0.6225057169795036</HistMax>
+        <BucketCount>20</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|2|1|0|2|0|1|1|1|0|1|0|2|2|0|1|2|1|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.032638549804688</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.60811871290207</MDI>
+      <MDI key="STATISTICS_MEAN">0.32772725503892</MDI>
+      <MDI key="STATISTICS_STDDEV">0.18310888999538</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>20200918_20200918_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.53507548570633</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.91870182752609</MDI>
+      <MDI key="STATISTICS_MEAN">0.69844220280647</MDI>
+      <MDI key="STATISTICS_STDDEV">0.10645067606746</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>20200919_20200919_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.0770174264908</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.6800855398178</MDI>
+      <MDI key="STATISTICS_MEAN">1.3777275025845</MDI>
+      <MDI key="STATISTICS_STDDEV">0.20533352939959</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>20200919_20200919_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.379808306694</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.7857327461243</MDI>
+      <MDI key="STATISTICS_MEAN">1.5769518494606</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11328581762337</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>20200920_20200920_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.9057604074478</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.8127429485321</MDI>
+      <MDI key="STATISTICS_MEAN">2.2837491452694</MDI>
+      <MDI key="STATISTICS_STDDEV">0.27184427581412</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>20200920_20200920_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.75458973646164</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.379589676857</MDI>
+      <MDI key="STATISTICS_MEAN">1.0176186829805</MDI>
+      <MDI key="STATISTICS_STDDEV">0.15794757834209</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>20200921_20200921_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.75854426622391</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.8781324625015</MDI>
+      <MDI key="STATISTICS_MEAN">1.2724887877703</MDI>
+      <MDI key="STATISTICS_STDDEV">0.33881830095831</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>20200921_20200921_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.44029200077057</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.87917548418045</MDI>
+      <MDI key="STATISTICS_MEAN">0.61959905177355</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14123902045074</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>20200922_20200922_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.42880311608315</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.3912054300308</MDI>
+      <MDI key="STATISTICS_MEAN">0.86487083435059</MDI>
+      <MDI key="STATISTICS_STDDEV">0.28999460976512</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>20200922_20200922_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.47016787528992</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.9025816321373</MDI>
+      <MDI key="STATISTICS_MEAN">0.6878050044179</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12923279214013</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>20200923_20200923_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.6063333749771</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.5496928691864</MDI>
+      <MDI key="STATISTICS_MEAN">1.986059576273</MDI>
+      <MDI key="STATISTICS_STDDEV">0.27128730963769</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>20200923_20200923_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.035021781921387</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.50116759538651</MDI>
+      <MDI key="STATISTICS_MEAN">0.26846090778708</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12576466207257</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>20200924_20200924_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.5348485708237</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.6230647563934</MDI>
+      <MDI key="STATISTICS_MEAN">1.9782119691372</MDI>
+      <MDI key="STATISTICS_STDDEV">0.32401136866883</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>20200924_20200924_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.87603139877319</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.2129861116409</MDI>
+      <MDI key="STATISTICS_MEAN">1.0479572564363</MDI>
+      <MDI key="STATISTICS_STDDEV">0.10338517282527</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>20200925_20200925_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.6756426095963</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.770247220993</MDI>
+      <MDI key="STATISTICS_MEAN">2.1271380245686</MDI>
+      <MDI key="STATISTICS_STDDEV">0.31964264346014</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>20200925_20200925_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.3090063333511</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.6951147317886</MDI>
+      <MDI key="STATISTICS_MEAN">1.4614091336727</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11880009523601</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>20200926_20200926_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.9967091083527</MDI>
+      <MDI key="STATISTICS_MAXIMUM">4.4201302528381</MDI>
+      <MDI key="STATISTICS_MEAN">3.5476328611374</MDI>
+      <MDI key="STATISTICS_STDDEV">0.44457620326796</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>20200926_20200926_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.3355818092823</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.12122631073</MDI>
+      <MDI key="STATISTICS_MEAN">0.66161941438913</MDI>
+      <MDI key="STATISTICS_STDDEV">0.20576658993518</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>20200927_20200927_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.9977054595947</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3.7156009674072</MDI>
+      <MDI key="STATISTICS_MEAN">3.3747786045074</MDI>
+      <MDI key="STATISTICS_STDDEV">0.21081805041417</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>20200927_20200927_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.4610865116119</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-0.92409926652908</MDI>
+      <MDI key="STATISTICS_MEAN">-1.2226160794497</MDI>
+      <MDI key="STATISTICS_STDDEV">0.15452665462101</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>20200928_20200928_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.1788266897202</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.9055925607681</MDI>
+      <MDI key="STATISTICS_MEAN">1.5642636597157</MDI>
+      <MDI key="STATISTICS_STDDEV">0.1870037189653</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>20200928_20200928_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.45851957798</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-1.00832426548</MDI>
+      <MDI key="STATISTICS_MEAN">-1.2190155982971</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12267215401227</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>20200929_20200929_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.489941239357</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.8612792491913</MDI>
+      <MDI key="STATISTICS_MEAN">2.0588601589203</MDI>
+      <MDI key="STATISTICS_STDDEV">0.40526448154025</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>20200929_20200929_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.24327850341797</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.57071179151535</MDI>
+      <MDI key="STATISTICS_MEAN">0.40916391909122</MDI>
+      <MDI key="STATISTICS_STDDEV">0.10635502420479</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>20200930_20200930_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.2341747283936</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.9622834920883</MDI>
+      <MDI key="STATISTICS_MEAN">1.5911795258522</MDI>
+      <MDI key="STATISTICS_STDDEV">0.21112336426964</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>20200930_20200930_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-0.12139701843262</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.42751249670982</MDI>
+      <MDI key="STATISTICS_MEAN">0.18320706803352</MDI>
+      <MDI key="STATISTICS_STDDEV">0.17492120032618</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>20201001_20201001_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.37227311730385</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.86128681898117</MDI>
+      <MDI key="STATISTICS_MEAN">0.64270159602165</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14952553731164</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>20201001_20201001_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.2595502138138</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-0.9020876288414</MDI>
+      <MDI key="STATISTICS_MEAN">-1.1060935974121</MDI>
+      <MDI key="STATISTICS_STDDEV">0.092704495177285</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>20201002_20201002_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.5471605062485</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.2824714183807</MDI>
+      <MDI key="STATISTICS_MEAN">1.8747381985188</MDI>
+      <MDI key="STATISTICS_STDDEV">0.23064035327713</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>20201002_20201002_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-0.22282612323761</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.2802052795887</MDI>
+      <MDI key="STATISTICS_MEAN">0.01589152738452</MDI>
+      <MDI key="STATISTICS_STDDEV">0.13877228831525</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>20201003_20201003_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.84336155653</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.3083680868149</MDI>
+      <MDI key="STATISTICS_MEAN">1.1344788879156</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11426516992992</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>20201003_20201003_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.3928788900375</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-0.96054649353027</MDI>
+      <MDI key="STATISTICS_MEAN">-1.2231665313244</MDI>
+      <MDI key="STATISTICS_STDDEV">0.13302797287404</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>20201004_20201004_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.232922911644</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.3371303081512</MDI>
+      <MDI key="STATISTICS_MEAN">1.7132003724575</MDI>
+      <MDI key="STATISTICS_STDDEV">0.33799477985854</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>20201004_20201004_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.52027177810669</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.91183263063431</MDI>
+      <MDI key="STATISTICS_MEAN">0.69440914988518</MDI>
+      <MDI key="STATISTICS_STDDEV">0.099460972655318</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>20201005_20201005_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.2580115795135</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3.3878536224365</MDI>
+      <MDI key="STATISTICS_MEAN">2.7329423189163</MDI>
+      <MDI key="STATISTICS_STDDEV">0.34443253047627</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>20201005_20201005_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.092843376100063</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.5292854309082</MDI>
+      <MDI key="STATISTICS_MEAN">0.24618708007038</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14890462782253</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>20201006_20201006_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.4543838500977</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.6462376117706</MDI>
+      <MDI key="STATISTICS_MEAN">1.939861536026</MDI>
+      <MDI key="STATISTICS_STDDEV">0.3656924833564</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>20201006_20201006_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.60978609323502</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.0380088090897</MDI>
+      <MDI key="STATISTICS_MEAN">0.81472080349922</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12466540745279</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>20201007_20201007_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.62110835313797</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.7869205474854</MDI>
+      <MDI key="STATISTICS_MEAN">1.1745263367891</MDI>
+      <MDI key="STATISTICS_STDDEV">0.35644066027164</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <Description>20201007_20201007_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.88418000936508</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.2760664224625</MDI>
+      <MDI key="STATISTICS_MEAN">1.0999748885632</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12321754058004</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <Description>20201008_20201008_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.92911213636398</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.1940453052521</MDI>
+      <MDI key="STATISTICS_MEAN">1.5265282928944</MDI>
+      <MDI key="STATISTICS_STDDEV">0.38925771647876</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <Description>20201008_20201008_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.72943389415741</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.2669705152512</MDI>
+      <MDI key="STATISTICS_MEAN">1.0122728466988</MDI>
+      <MDI key="STATISTICS_STDDEV">0.16184576531766</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <Description>20201009_20201009_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.3234252929688</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.4368693828583</MDI>
+      <MDI key="STATISTICS_MEAN">1.7874125421047</MDI>
+      <MDI key="STATISTICS_STDDEV">0.32993207539657</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <Description>20201009_20201009_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.71249580383301</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.023775100708</MDI>
+      <MDI key="STATISTICS_MEAN">0.868399938941</MDI>
+      <MDI key="STATISTICS_STDDEV">0.1047952230868</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <Description>20201010_20201010_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.72022312879562</MDI>
+      <MDI key="STATISTICS_MAXIMUM">2.0464763641357</MDI>
+      <MDI key="STATISTICS_MEAN">1.3194825530052</MDI>
+      <MDI key="STATISTICS_STDDEV">0.39911551668939</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <Description>20201010_20201010_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1.326544046402</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.895879983902</MDI>
+      <MDI key="STATISTICS_MEAN">1.5847614526749</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14945247327001</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <Description>20201011_20201011_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.4336326122284</MDI>
+      <MDI key="STATISTICS_MAXIMUM">3.7439353466034</MDI>
+      <MDI key="STATISTICS_MEAN">2.9507569909096</MDI>
+      <MDI key="STATISTICS_STDDEV">0.38556424167615</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <Description>20201011_20201011_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.89025962352753</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.3082690238953</MDI>
+      <MDI key="STATISTICS_MEAN">1.1041522473097</MDI>
+      <MDI key="STATISTICS_STDDEV">0.11010536127876</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <Description>20201012_20201012_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">3.5550575256348</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.6384520530701</MDI>
+      <MDI key="STATISTICS_MEAN">4.4559547543526</MDI>
+      <MDI key="STATISTICS_STDDEV">0.58463707281345</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <Description>20201012_20201012_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.93320798873901</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.4286099672318</MDI>
+      <MDI key="STATISTICS_MEAN">1.1382210165262</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12989945986702</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <Description>20201013_20201013_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.7796392440796</MDI>
+      <MDI key="STATISTICS_MAXIMUM">4.9903326034546</MDI>
+      <MDI key="STATISTICS_MEAN">3.6826157569885</MDI>
+      <MDI key="STATISTICS_STDDEV">0.63584333234047</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <Description>20201013_20201013_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.89140474796295</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.4232244491577</MDI>
+      <MDI key="STATISTICS_MEAN">1.1007634729147</MDI>
+      <MDI key="STATISTICS_STDDEV">0.14216016099557</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <Description>20201014_20201014_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">4.7064871788025</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7.1081795692444</MDI>
+      <MDI key="STATISTICS_MEAN">5.7660369873047</MDI>
+      <MDI key="STATISTICS_STDDEV">0.65331098179746</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <Description>20201014_20201014_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.51410037279129</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.1866670846939</MDI>
+      <MDI key="STATISTICS_MEAN">0.83396733701229</MDI>
+      <MDI key="STATISTICS_STDDEV">0.18570350894409</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <Description>20201015_20201015_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">3.6595590114594</MDI>
+      <MDI key="STATISTICS_MAXIMUM">4.1654996871948</MDI>
+      <MDI key="STATISTICS_MEAN">3.9480681538582</MDI>
+      <MDI key="STATISTICS_STDDEV">0.13760601904649</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <Description>20201015_20201015_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">-1.1329233646393</MDI>
+      <MDI key="STATISTICS_MAXIMUM">-0.70232033729553</MDI>
+      <MDI key="STATISTICS_MEAN">-0.94692280292511</MDI>
+      <MDI key="STATISTICS_STDDEV">0.12611917728627</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <Description>20201016_20201016_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">2.7722597122192</MDI>
+      <MDI key="STATISTICS_MAXIMUM">4.074770450592</MDI>
+      <MDI key="STATISTICS_MEAN">3.3927055597305</MDI>
+      <MDI key="STATISTICS_STDDEV">0.38796736338093</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <Description>20201016_20201016_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.50970107316971</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.1577112674713</MDI>
+      <MDI key="STATISTICS_MEAN">0.74337720274925</MDI>
+      <MDI key="STATISTICS_STDDEV">0.19666643796142</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <Description>20201017_20201017_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">4.0636215209961</MDI>
+      <MDI key="STATISTICS_MAXIMUM">6.7181625366211</MDI>
+      <MDI key="STATISTICS_MEAN">5.3127609491348</MDI>
+      <MDI key="STATISTICS_STDDEV">0.72489907559368</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <Description>20201017_20201017_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.67038512229919</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.3370517492294</MDI>
+      <MDI key="STATISTICS_MEAN">0.92883441448212</MDI>
+      <MDI key="STATISTICS_STDDEV">0.18694800230744</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <Description>20201018_20201018_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">3.347100019455</MDI>
+      <MDI key="STATISTICS_MAXIMUM">4.5880260467529</MDI>
+      <MDI key="STATISTICS_MEAN">4.0788647055626</MDI>
+      <MDI key="STATISTICS_STDDEV">0.39285285728773</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <Description>20201018_20201018_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.24491202831268</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.84586417675018</MDI>
+      <MDI key="STATISTICS_MEAN">0.50625643134117</MDI>
+      <MDI key="STATISTICS_STDDEV">0.17044153371072</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <Description>20201019_20201019_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">3.4068858623505</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.5426278114319</MDI>
+      <MDI key="STATISTICS_MEAN">4.4000681519508</MDI>
+      <MDI key="STATISTICS_STDDEV">0.61151820412964</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <Description>20201019_20201019_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.40354999899864</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.0525571107864</MDI>
+      <MDI key="STATISTICS_MEAN">0.6940061300993</MDI>
+      <MDI key="STATISTICS_STDDEV">0.16885351742344</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <Description>20201020_20201020_u_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">3.3226191997528</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5.3783645629883</MDI>
+      <MDI key="STATISTICS_MEAN">4.2903681755066</MDI>
+      <MDI key="STATISTICS_STDDEV">0.59789058341104</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <Description>20201020_20201020_v_component_of_wind_10m</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0.41495847702026</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1.0843514204025</MDI>
+      <MDI key="STATISTICS_MEAN">0.69332151859999</MDI>
+      <MDI key="STATISTICS_STDDEV">0.1729166872685</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

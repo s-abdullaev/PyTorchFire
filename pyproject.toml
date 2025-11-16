@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pytorchfire"
-dynamic = ["version", "dependencies", "optional-dependencies"]
+dynamic = ["version"]
 description = 'PyTorchFire: A GPU-Accelerated Wildfire Simulator with Differentiable Cellular Automata'
 readme = "README.md"
 requires-python = ">=3.8"
@@ -14,6 +14,12 @@ authors = [
     { name = "Zeyu Xia", email = "zeyu.xia@virginia.edu" },
     { name = "Sibo Cheng", email = "sibo.cheng@enpc.fr" },
 ]
+dependencies = [
+    "torch",
+    "einops",
+    "numpy",
+    "earthengine-api>=1.1.5",
+]
 classifiers = [
     "Environment :: GPU",
     "Intended Audience :: Science/Research",
@@ -21,6 +27,14 @@ classifiers = [
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Topic :: Scientific/Engineering :: Atmospheric Science",
+]
+
+[project.optional-dependencies]
+examples = [
+    "h5py",
+    "mpi4py",
+    "tensorboard",
+    "tqdm",
 ]
 
 [project.urls]
@@ -37,12 +51,6 @@ exclude = [
 
 [tool.hatch.version]
 path = "pytorchfire/__about__.py"
-
-[tool.hatch.metadata.hooks.requirements_txt]
-files = ["requirements.txt"]
-
-[tool.hatch.metadata.hooks.requirements_txt.optional-dependencies]
-examples = ["requirements-examples.txt"]
 
 [[tool.hatch.envs.all.matrix]]
 python = ["3.8", "3.9", "3.10", "3.11", "3.12"]
